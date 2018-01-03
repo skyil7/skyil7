@@ -17,6 +17,6 @@
   - 위 프로젝트의 리메이크 버전으로서, Spring MVC를 활용하여 회원가입, 게시판, 페이지네이션과 같은 기능을 개발하였다.
   - 또한, 네이버에서 제공하는 스마트에디터2([SE2](https://github.com/naver/smarteditor2))를 활용하여 게시글에 이미지를 자유롭게 삽입할 수 있도록 하였다.
 ### 개발중
-- [My Blog](https://github.com/skyil7/Blog_dojae)
+- [My Blog](https://github.com/skyil7/Spring_Blog)
   - Spring MVC를 활용한 개인용 블로그 겸 커뮤니티 사이트로서 개발완료 후 강의자료 저장이나 포토폴리오와 같은 용도로 사용 예정이다.
   - [MDL](https://getmdl.io/templates/index.html)혹은 [Bootstrap](http://getbootstrap.com/)을 활용할 계획이다.
