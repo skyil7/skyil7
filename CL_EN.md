@@ -17,6 +17,6 @@ I am 17 years old high school student who fall in love with software development
   - Remake version of previous My first spring web project.
   - I used SmartEditor2([SE2](https://github.com/naver/smarteditor2)).
 ### Under Development
-- [My Blog](https://github.com/skyil7/Blog_dojae)
+- [My Blog](https://github.com/skyil7/Spring_Blog)
   - My personal blog using Spring MVC and MYSQL.
   - I am planning to use [MDL](https://getmdl.io/templates/index.html)or [Bootstrap](http://getbootstrap.com/) for front design.
