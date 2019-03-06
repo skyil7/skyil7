@@ -1,6 +1,10 @@
 # Gio Paik (a.k.a retro, skyil)
 ## Hello Github!
-I am 17 years old high school student who fall in love with software development.
+I am 18 years old student who want to be a top-class software engineer. 
+## Career
+- Worked at IdeaConcert as Intern (2017)
+- Studied Software development at YangYoung Digital High School (2016 ~ 2019)
+- Sejong University Computer Science Department (2019 ~)
 ## Certificate
 - 컴퓨터활용능력 2급 (Korean Certificate about MS Excel and basic computer knowledge)
 - 정보처리기능사 (Korean Certificate about basic DBMS, SQL and basic computer knowledge)
