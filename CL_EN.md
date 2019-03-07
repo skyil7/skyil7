@@ -30,3 +30,5 @@ I am 18 years old student who want to be a top-class software engineer.
 ### Under Development
 - [SejongUniv_Python](https://github.com/skyil7/SejongUniv_Python) (2019.03.06 ~ )
   - Python practice codes based on Sejong University Advanced Programming-P course.
+- [SejongUniv_C](https://github.com/skyil7/SejongUniv_C) (2019.03.07 ~ )
+  - C practice codes based on Sejong University Programming-C course.
