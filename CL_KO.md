@@ -31,3 +31,6 @@
   - 세종대학교 고급프로그래밍-P 수업을 기반으로 한 파이썬 연습 코드들
 - [SejongUniv_C](https://github.com/skyil7/SejongUniv_C) (2019.03.07 ~ )
   - 세종대학교 C프로그래밍 수업을 기반으로 한 C언어 연습 
+### 연습
+- [Everyday_Programming](https://github.com/skyil7/Everyday_Programming)
+  - [매일프로그래밍](http://mailprogramming.com/)에서 제공하는 알고리즘 문제풀이
