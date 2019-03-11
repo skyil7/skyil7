@@ -28,6 +28,10 @@ I am 18 years old student who want to be a top-class software engineer.
   - I am planning to use [MDL](https://getmdl.io/templates/index.html)or [Bootstrap](http://getbootstrap.com/) for front design.
   - This project was abandoned due to the Korean SAT.
 ### Under Development
+
+### Practice
+- [Everyday_Programming](https://github.com/skyil7/Everyday_Programming)
+  - Algorithm questions from [매일프로그래밍](http://mailprogramming.com/) service.
 - [SejongUniv_Python](https://github.com/skyil7/SejongUniv_Python) (2019.03.06 ~ )
   - Python practice codes based on Sejong University Advanced Programming-P course.
 - [SejongUniv_C](https://github.com/skyil7/SejongUniv_C) (2019.03.07 ~ )
