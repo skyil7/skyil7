@@ -28,7 +28,10 @@ I am 18 years old student who want to be a top-class software engineer.
   - I am planning to use [MDL](https://getmdl.io/templates/index.html)or [Bootstrap](http://getbootstrap.com/) for front design.
   - This project was abandoned due to the Korean SAT.
 ### Under Development
-
+- [likeLion](https://github.com/skyil7/likeLion)
+  - Web projects i made in likeLion which is an university web programming circle.
+- [HowToJava](https://github.com/skyil7/HowToJava)
+  - Java Tutorials i made for my algorithm circle.
 ### Practice
 - [Everyday_Programming](https://github.com/skyil7/Everyday_Programming)
   - Algorithm questions from [매일프로그래밍](http://mailprogramming.com/) service.
