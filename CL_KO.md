@@ -27,7 +27,10 @@
   - [MDL](https://getmdl.io/templates/index.html)혹은 [Bootstrap](http://getbootstrap.com/)을 활용할 계획이다.
   - 2018 대학수학능력시험으로 인해 폐기됨.
 ### 개발중
-
+- [likeLion](https://github.com/skyil7/likeLion)
+  - 웹 코딩 & 프로그래밍 동아리 멋쟁이사자처럼에서 활동하며 작성한 코드들
+- [HowToJava](https://github.com/skyil7/HowToJava)
+  - 알고리즘 동아리 운영을 위해 만든 자료들. 과외, 학원등에서의 상업적 이용외에는 마음대로 사용가능
 ### 연습
 - [Everyday_Programming](https://github.com/skyil7/Everyday_Programming)
   - [매일프로그래밍](http://mailprogramming.com/)에서 제공하는 알고리즘 문제풀이
