@@ -29,6 +29,7 @@
 ### 개발중
 - [likeLion](https://github.com/skyil7/likeLion)
   - 웹 코딩 & 프로그래밍 동아리 멋쟁이사자처럼에서 활동하며 작성한 코드들
+  - 노오력을 해서 훌륭한 웹 프로그래머가 될거에요!
 - [HowToJava](https://github.com/skyil7/HowToJava)
   - 알고리즘 동아리 운영을 위해 만든 자료들. 과외, 학원등에서의 상업적 이용외에는 마음대로 사용가능
 ### 연습
