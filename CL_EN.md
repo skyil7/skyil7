@@ -1,4 +1,4 @@
-# Gio Paik (a.k.a retro, skyil)
+# Gio Paik (a.k.a skyil)
 ## Hello Github!
 I am 18 years old student who want to be a top-class software engineer. 
 ## Career
@@ -32,6 +32,8 @@ I am 18 years old student who want to be a top-class software engineer.
   - Web projects i made in likeLion which is an university web programming circle.
 - [HowToJava](https://github.com/skyil7/HowToJava)
   - Java Tutorials i made for my algorithm circle.
+- [Together-CPP](https://github.com/skyil7/Together-CPP)
+  - C++ Example codes for my youtube C++ Tutorial "Together, C++"
 ### Practice
 - [Everyday_Programming](https://github.com/skyil7/Everyday_Programming)
   - Algorithm questions from [매일프로그래밍](http://mailprogramming.com/) service.
