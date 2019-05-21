@@ -41,6 +41,9 @@
   - 세종대학교 고급프로그래밍-P 수업을 기반으로 한 파이썬 연습 코드들
 - [SejongUniv_C](https://github.com/skyil7/SejongUniv_C) (2019.03.07 ~ )
   - 세종대학교 C프로그래밍 수업을 기반으로 한 C언어 연습 코드
+- [Algorithm Study](https://github.com/skyil7/AlgorithmStudy)(2019.05 ~)
+  - 체계적인 알고리즘 독학 공부
+  - 주로 백준 문제 풀이들
 - [UnrealEngine_Practice](https://github.com/skyil7/UnrealEngine_Practice)
   - 언리얼엔진 연습. 한번 포기했던 꿈이지만, 지금 아니면 언제 도전해보겠냐는 생각에.
   - 내가 공부하고 싶을때만!
