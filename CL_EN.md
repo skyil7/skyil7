@@ -41,6 +41,9 @@ I am 18 years old student who want to be a top-class software engineer.
   - Python practice codes based on Sejong University Advanced Programming-P course.
 - [SejongUniv_C](https://github.com/skyil7/SejongUniv_C) (2019.03.07 ~ )
   - C practice codes based on Sejong University Programming-C course.
+- [Algorithm Study](https://github.com/skyil7/AlgorithmStudy)(2019.05 ~)
+  - Advanced Algorithm study code
+  - Mostly, problems from [BOJ](https://acmicpc.net)
 - [UnrealEngine_Practice](https://github.com/skyil7/UnrealEngine_Practice)
   - Unreal Engine Practice. My childhood dream was a developer of next Pokemon Game.
   - I study this only when i want to. Because this is hobby.
