@@ -15,6 +15,8 @@
 - JAVA
 - Python
 - C, C++
+- SQL
+- JavaScript
 - Spring Framework
 - Django
 ### 언어
