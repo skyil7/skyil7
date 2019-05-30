@@ -11,18 +11,24 @@
 - 정보처리기능사
 - OCJP (Oracle Certified Java Programmer)
 ## 기술
-### 사용언어, 라이브러리
+### 사용언어
 - JAVA
 - Python
 - C, C++
 - SQL
 - JavaScript
-- Spring Framework
+### 사용 프레임워크
+- Spring, Spring Boot
+- MyBatis, Maven(Gradle)
 - Django
 ### 언어
 - 한국어 원어민
 - 영어 상급
 - 일본어 하급
+### 협업
+ - Github
+ - Trello
+ - Slack
 ## 개발목록
 ### 개발완료, 중단
 - [Project Insight](https://github.com/skyil7/Project-Insight) (2017.07.21 ~ 2017.08.11)
@@ -61,3 +67,7 @@
 - [UnrealEngine_Practice](https://github.com/skyil7/UnrealEngine_Practice)
   - 언리얼엔진 연습. 한번 포기했던 꿈이지만, 지금 아니면 언제 도전해보겠냐는 생각에.
   - 내가 공부하고 싶을때만!
+## 외부 
+- [LinkedIn](https://www.linkedin.com/in/지오-백-476348175/)
+- [Github.io](https://skyil7.github.io)
+- [Email](giopaik@naver.com)
