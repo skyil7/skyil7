@@ -17,12 +17,18 @@ I am 18 years old student who want to be a top-class software engineer.
 - C, C++
 - SQL
 - JavaScript
-- Spring Framework
+### Framework
+- Spring, Spring Boot
+- MyBatis, Maven(Gradle)
 - Django
 ### Language
 - Korean (native)
 - English
 - Japanese
+### Cooperation
+- Github
+- Trello
+- Slack
 ## Projects
 ### Develope Complete or Stopped
 - [Project Insight](https://github.com/skyil7/Project-Insight) (2017.07.21 ~ 2017.08.11)
@@ -61,3 +67,7 @@ I am 18 years old student who want to be a top-class software engineer.
 - [UnrealEngine_Practice](https://github.com/skyil7/UnrealEngine_Practice)
   - Unreal Engine Practice. My childhood dream was a developer of next Pokemon Game.
   - I study this only when i want to. Because this is hobby.
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/지오-백-476348175/)
+- [Github.io](https://skyil7.github.io)
+- [Email](giopaik@naver.com)
