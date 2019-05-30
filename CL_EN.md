@@ -1,15 +1,27 @@
 # Gio Paik (a.k.a skyil)
 ## Hello Github!
 I am 18 years old student who want to be a top-class software engineer. 
-## Career
-- Worked at IdeaConcert as Intern (2017)
+## Education
 - Studied Software development at YangYoung Digital High School (2016 ~ 2019)
 - Sejong University Computer Science Department (2019 ~)
+## Experience
+- Worked at IdeaConcert as Intern (2017)
 ## Certificate
 - 컴퓨터활용능력 2급 (Korean Certificate about MS Excel and basic computer knowledge)
 - 정보처리기능사 (Korean Certificate about basic DBMS, SQL and basic computer knowledge)
 - OCJP (Oracle Certified Java Programmer)
-## My Works
+## Skills
+### Programming Language & Framework
+- JAVA
+- Python
+- C, C++
+- Spring Framework
+- Django
+### Language
+- Korean (native)
+- English
+- Japanese
+## Projects
 ### Develope Complete or Stopped
 - [Project Insight](https://github.com/skyil7/Project-Insight) (2017.07.21 ~ 2017.08.11)
   - Google News Crawler using daemon.
