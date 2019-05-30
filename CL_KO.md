@@ -9,6 +9,17 @@
 - 컴퓨터활용능력 2급
 - 정보처리기능사
 - OCJP (Oracle Certified Java Programmer)
+## 기술
+### 사용언어, 라이브러리
+- JAVA
+- Python
+- C, C++
+- Spring Framework
+- Django
+### 언어
+- 한국어 원어민
+- 영어 상급
+- 일본어 하급
 ## 개발목록
 ### 개발완료, 중단
 - [Project Insight](https://github.com/skyil7/Project-Insight) (2017.07.21 ~ 2017.08.11)
