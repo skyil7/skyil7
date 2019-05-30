@@ -15,6 +15,8 @@ I am 18 years old student who want to be a top-class software engineer.
 - JAVA
 - Python
 - C, C++
+- SQL
+- JavaScript
 - Spring Framework
 - Django
 ### Language
