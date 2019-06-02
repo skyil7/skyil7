@@ -25,7 +25,7 @@ I am 18 years old student who want to be a top-class software engineer.
 - Korean (native)
 - English
 - Japanese
-  - 
+ - Talking Only
 ### Cooperation
 - Github
 - Trello
