@@ -69,6 +69,6 @@ I am 18 years old student who want to be a top-class software engineer.
   - Unreal Engine Practice. My childhood dream was a developer of next Pokemon Game.
   - I study this only when i want to. Because this is hobby.
 ## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/지오-백-476348175/)
+- [LinkedIn](https://www.linkedin.com/in/%EC%A7%80%EC%98%A4-%EB%B0%B1-476348175/?locale=en_US)
 - [Github.io](https://skyil7.github.io)
 - [Email](giopaik@naver.com)
