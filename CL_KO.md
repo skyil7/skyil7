@@ -47,6 +47,10 @@
   - Spring MVC를 활용한 개인용 블로그 겸 커뮤니티 사이트로서 개발완료 후 강의자료 저장이나 포토폴리오와 같은 용도로 사용 예정이다.
   - [MDL](https://getmdl.io/templates/index.html)혹은 [Bootstrap](http://getbootstrap.com/)을 활용할 계획이다.
   - 2018 대학수학능력시험으로 인해 폐기됨.
+- [SejongUniv_Python](https://github.com/skyil7/SejongUniv_Python) (2019.03.06 ~ )
+  - 세종대학교 고급프로그래밍-P 수업을 기반으로 한 파이썬 연습 코드들
+- [SejongUniv_C](https://github.com/skyil7/SejongUniv_C) (2019.03.07 ~ )
+  - 세종대학교 C프로그래밍 수업을 기반으로 한 C언어 연습 코드
 ### 개발중
 - [likeLion](https://github.com/skyil7/likeLion)
   - 웹 코딩 & 프로그래밍 동아리 멋쟁이사자처럼에서 활동하며 작성한 코드들
@@ -58,10 +62,6 @@
 ### 연습
 - [Everyday_Programming](https://github.com/skyil7/Everyday_Programming)
   - [매일프로그래밍](http://mailprogramming.com/)에서 제공하는 알고리즘 문제풀이
-- [SejongUniv_Python](https://github.com/skyil7/SejongUniv_Python) (2019.03.06 ~ )
-  - 세종대학교 고급프로그래밍-P 수업을 기반으로 한 파이썬 연습 코드들
-- [SejongUniv_C](https://github.com/skyil7/SejongUniv_C) (2019.03.07 ~ )
-  - 세종대학교 C프로그래밍 수업을 기반으로 한 C언어 연습 코드
 - [Algorithm Study](https://github.com/skyil7/AlgorithmStudy)(2019.05 ~)
   - 체계적인 알고리즘 독학 공부
   - 주로 백준 문제 풀이들
