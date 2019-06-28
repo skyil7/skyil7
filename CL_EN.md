@@ -48,9 +48,9 @@ I am 18 years old student who want to be a top-class software engineer.
   - My personal blog using Spring MVC and MYSQL.
   - I am planning to use [MDL](https://getmdl.io/templates/index.html)or [Bootstrap](http://getbootstrap.com/) for front design.
   - This project was abandoned due to the Korean SAT.
-- [SejongUniv_Python](https://github.com/skyil7/SejongUniv_Python) (2019.03.06 ~ )
+- [SejongUniv_Python](https://github.com/skyil7/SejongUniv_Python) (2019.03.06 ~ 2019.06)
   - Python practice codes based on Sejong University Advanced Programming-P course.
-- [SejongUniv_C](https://github.com/skyil7/SejongUniv_C) (2019.03.07 ~ )
+- [SejongUniv_C](https://github.com/skyil7/SejongUniv_C) (2019.03.07 ~ 2019.06)
   - C practice codes based on Sejong University Programming-C course.
 ### Under Development
 - [likeLion](https://github.com/skyil7/likeLion)
