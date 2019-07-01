@@ -59,6 +59,8 @@
   - 알고리즘 동아리 운영을 위해 만든 자료들. 과외, 학원등에서의 상업적 이용외에는 마음대로 사용가능
 - [Together-CPP](https://github.com/skyil7/Together-CPP)
   - 알고리즘 동아리를 위해 만든 유튜브 강의 "함께해요, C++"에서 짠 실습 코드들
+- [DjangoBlog](https://github.com/skyil7/DjangoBlog)(2019.07.01 ~ )
+  - 장고 최종 복습용 프로젝트, 장고를 통한 클린/시큐어 코딩 연습
 ### 연습
 - [Everyday_Programming](https://github.com/skyil7/Everyday_Programming)
   - [매일프로그래밍](http://mailprogramming.com/)에서 제공하는 알고리즘 문제풀이
