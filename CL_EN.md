@@ -59,6 +59,8 @@ I am 18 years old student who want to be a top-class software engineer.
   - Java Tutorials i made for my algorithm circle.
 - [Together-CPP](https://github.com/skyil7/Together-CPP)
   - C++ Example codes for my youtube C++ Tutorial "Together, C++"
+- [DjangoBlog](https://github.com/skyil7/DjangoBlog)(2019.07.01 ~ )
+  - Django Blog project to practice Clean & Secure Coding
 ### Practice
 - [Everyday_Programming](https://github.com/skyil7/Everyday_Programming)
   - Algorithm questions from [매일프로그래밍](http://mailprogramming.com/) service.
