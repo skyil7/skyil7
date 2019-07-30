@@ -61,6 +61,9 @@ I am 18 years old student who want to be a top-class software engineer.
   - C++ Example codes for my youtube C++ Tutorial "Together, C++"
 - [DjangoBlog](https://github.com/skyil7/DjangoBlog)(2019.07.01 ~ )
   - Django Blog project to practice Clean & Secure Coding
+- [Music of Today](https://github.com/skyil7/Music_of_Today)(2019.07.24 ~ )
+  - Music Community web site to share and recommend today's music.
+  - Deploy on AWS EB
 ### Practice
 - [Everyday_Programming](https://github.com/skyil7/Everyday_Programming)
   - Algorithm questions from [매일프로그래밍](http://mailprogramming.com/) service.
