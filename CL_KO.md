@@ -62,6 +62,10 @@ Django를 이용한 웹 개발을 주로 하고 있으며, TensorRT를 활용한
   - 알고리즘 동아리를 위해 만든 유튜브 강의 "함께해요, C++"에서 짠 실습 코드들
 - [DjangoBlog](https://github.com/skyil7/DjangoBlog)(2019.07.01 ~ )
   - 장고 최종 복습용 프로젝트, 장고를 통한 클린/시큐어 코딩 연습
+- [Music of Today](https://github.com/skyil7/Music_of_Today)(2019.07.24 ~ )
+  - 장고 CBV 연습 및 웹 실력 향상용 프로젝트
+  - 오늘의 음악을 공유, 추천해주는 커뮤니티 사이트
+  - AWS EB 배포
 ### 연습
 - [Everyday_Programming](https://github.com/skyil7/Everyday_Programming)
   - [매일프로그래밍](http://mailprogramming.com/)에서 제공하는 알고리즘 문제풀이
