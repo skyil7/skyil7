@@ -5,6 +5,7 @@ Django를 이용한 웹 개발을 주로 하고 있으며, TensorRT를 활용한
 ## 학력
 - 양영디지털고등학교 소프트웨어 개발과 졸업 (2016년 ~ 2019년)
 - 세종대학교 컴퓨터공학과 19학번 재학중
+- 세종대학교 컴퓨터공학과 학부연구생 (2019년 ~ )
 ## 경력
 - 아이디어콘서트에서 도제학생으로 근무 (2017년)
 ## 자격증
@@ -13,8 +14,8 @@ Django를 이용한 웹 개발을 주로 하고 있으며, TensorRT를 활용한
 - OCJP (Oracle Certified Java Programmer)
 ## 기술
 ### 사용언어
-- JAVA
 - Python
+- JAVA
 - C, C++
 - SQL
 - JavaScript
@@ -22,6 +23,7 @@ Django를 이용한 웹 개발을 주로 하고 있으며, TensorRT를 활용한
 - Spring, Spring Boot
 - MyBatis, Maven(Gradle)
 - Django
+- TensorFlow
 ### 언어
 - 한국어 원어민
 - 영어 상급
@@ -32,7 +34,7 @@ Django를 이용한 웹 개발을 주로 하고 있으며, TensorRT를 활용한
  - Trello
  - Slack
 ## 개발목록
-### 개발완료, 중단
+### 개인 프로젝트
 - [Project Insight](https://github.com/skyil7/Project-Insight) (2017.07.21 ~ 2017.08.11)
   - Daemon을 활용하여 Google News Crawler를 개발하여 [Google Chart API](https://developers.google.com/chart/)를 이용해 사용자에게 카테고리별 최신 이슈를 보여주는 웹 사이트를 개발하였다.
 - [MVC_Pattern_Practice_JSP](https://github.com/skyil7/MVC_Pattern_Practice_JSP) (2017.08)
@@ -43,38 +45,41 @@ Django를 이용한 웹 개발을 주로 하고 있으며, TensorRT를 활용한
   - 코드가 너무 난해해지고 정리가 안되어 처음부터 재개발하였다.
 - [First-Spring-Project_Remake](https://github.com/skyil7/First-Spring-Project_Remake) (2017.11 ~ 2017.12)
   - 위 프로젝트의 리메이크 버전으로서, Spring MVC를 활용하여 회원가입, 게시판, 페이지네이션과 같은 기능을 개발하였다.
-  - 또한, 네이버에서 제공하는 스마트에디터2([SE2](https://github.com/naver/smarteditor2))를 활용하여 게시글에 이미지를 자유롭게 삽입할 수 있도록 하였다.
-- [My Blog](https://github.com/skyil7/Spring_Blog) (2018.01 ~ 프로젝트 중단)
-  - Spring MVC를 활용한 개인용 블로그 겸 커뮤니티 사이트로서 개발완료 후 강의자료 저장이나 포토폴리오와 같은 용도로 사용 예정이다.
-  - [MDL](https://getmdl.io/templates/index.html)혹은 [Bootstrap](http://getbootstrap.com/)을 활용할 계획이다.
-  - 2018 대학수학능력시험으로 인해 폐기됨.
-- [SejongUniv_Python](https://github.com/skyil7/SejongUniv_Python) (2019.03.06 ~ 2019.06)
-  - 세종대학교 고급프로그래밍-P 수업을 기반으로 한 파이썬 연습 코드들
-- [SejongUniv_C](https://github.com/skyil7/SejongUniv_C) (2019.03.07 ~ 2019.06)
-  - 세종대학교 C프로그래밍 수업을 기반으로 한 C언어 연습 코드
-### 개발중
-- [likeLion](https://github.com/skyil7/likeLion)
-  - 웹 코딩 & 프로그래밍 동아리 멋쟁이사자처럼에서 활동하며 작성한 코드들
-  - 노오력을 해서 훌륭한 웹 프로그래머가 될거에요!
-- [HowToJava](https://github.com/skyil7/HowToJava)
-  - 알고리즘 동아리 운영을 위해 만든 자료들. 과외, 학원등에서의 상업적 이용외에는 마음대로 사용가능
-- [Together-CPP](https://github.com/skyil7/Together-CPP)
-  - 알고리즘 동아리를 위해 만든 유튜브 강의 "함께해요, C++"에서 짠 실습 코드들
-- [DjangoBlog](https://github.com/skyil7/DjangoBlog)(2019.07.01 ~ )
-  - 장고 최종 복습용 프로젝트, 장고를 통한 클린/시큐어 코딩 연습
-- [Music of Today](https://github.com/skyil7/Music_of_Today)(2019.07.24 ~ )
+  - 또한, 네이버에서 제공하는 스마트에디터2([SE2](https://github.com/naver/smarteditor2))를 활용하여 게시글에 이미지를 자유롭게 삽입할 수 있도록 하였다..
+- [Music of Today](https://github.com/skyil7/Music_of_Today)(2019.07.24 ~ 2019.08.01)
   - 장고 CBV 연습 및 웹 실력 향상용 프로젝트
   - 오늘의 음악을 공유, 추천해주는 커뮤니티 사이트
-  - AWS EB 배포
+  - AWS EB 배포 연습용
+- [DjangoBlog](https://github.com/skyil7/DjangoBlog)(2019.07.01 ~ 2019.07.24)
+  - 장고 최종 복습용 프로젝트, 장고를 통한 클린/시큐어 코딩 연습
+### 팀 프로젝트
+- [Moment](https://github.com/skyil7/Moment)
+  - 2019년 멋쟁이사자처럼 해커톤 프로젝트
+  - 네이버 지도위에 자신의 발자취를 남길 수 있는 사이트
+### 강의
+- [Together-CPP](https://github.com/skyil7/Together-CPP)
+  - 알고리즘 동아리를 위해 만든 유튜브 강의 "함께해요, C++"에서 짠 실습 코드들
 ### 연습
 - [Everyday_Programming](https://github.com/skyil7/Everyday_Programming)
   - [매일프로그래밍](http://mailprogramming.com/)에서 제공하는 알고리즘 문제풀이
-- [Algorithm Study](https://github.com/skyil7/AlgorithmStudy)(2019.05 ~)
+- [Algorithm Study](https://github.com/skyil7/AlgorithmStudy)
   - 체계적인 알고리즘 독학 공부
   - 주로 백준 문제 풀이들
 - [UnrealEngine_Practice](https://github.com/skyil7/UnrealEngine_Practice)
   - 언리얼엔진 연습. 한번 포기했던 꿈이지만, 지금 아니면 언제 도전해보겠냐는 생각에.
   - 내가 공부하고 싶을때만!
+- [likeLion](https://github.com/skyil7/likeLion)
+  - 웹 코딩 & 프로그래밍 동아리 멋쟁이사자처럼에서 활동하며 작성한 코드들
+- [Fluent Python](https://github.com/skyil7/Fluent-Python)
+  - 전문가를 위한 파이썬 책에서 배운 것들 정리, 코드
+  - 파이썬 전문가가 되기 위해 공부 중
+- [DL from Scratch](https://github.com/skyil7/DL-from-Scratch)
+  - 딥러닝의 기초 원리를 이해하기 위한 라이브러리 없이 배우는 딥러닝
+  - 동명의 유명한 책에서 나온 코드와 개념 요약
+  - 요약은 최대한 자세하고 다시보기 좋게!
+- [TensorFlow Study](https://github.com/skyil7/TensorFlow_Study)
+  - 텐서플로우를 활용한 인공지능 연습
+  - 자세한 개념은 생략하고 구현 
 ## 외부 
 - [LinkedIn](https://www.linkedin.com/in/지오-백-476348175/)
 - [Github.io](https://skyil7.github.io)
