@@ -56,6 +56,9 @@ Django를 이용한 웹 개발을 주로 하고 있으며, TensorRT를 활용한
 - [Moment](https://github.com/skyil7/Moment)
   - 2019년 멋쟁이사자처럼 해커톤 프로젝트
   - 네이버 지도위에 자신의 발자취를 남길 수 있는 사이트
+- [Classical_Reading_CBT](https://github.com/sejong-interface/2019_Classical_Reading)
+  - 세종대학교 고전독서 시험 공부용 앱
+  - 2019년 세종대학교 프로그래밍 동아리 Interface 프로그램 전시회
 ### 강의
 - [Together-CPP](https://github.com/skyil7/Together-CPP)
   - 알고리즘 동아리를 위해 만든 유튜브 강의 "함께해요, C++"에서 짠 실습 코드들
