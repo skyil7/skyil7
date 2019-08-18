@@ -1,6 +1,6 @@
 # Gio Paik (a.k.a skyil)
 ## Hello Github!
-I am 18 years old student who want to be a top-class software engineer. 
+I am 18 years old university student who wants to be a top-class software engineer. 
 ## Education
 - Studied Software development at YangYoung Digital High School (2016 ~ 2019)
 - Bachelor of Computer Science, Sejong University (2019 ~)
@@ -55,6 +55,9 @@ I am 18 years old student who want to be a top-class software engineer.
 - [Moment](https://github.com/skyil7/Moment)
   - likelion Hackathon 2019
   - Personal photo album based on Naver Map API
+- [Classical_Reading_CBT](https://github.com/sejong-interface/2019_Classical_Reading)
+  - Sejong Univ. Classical literature Study App for Android.
+  - Sejong Univ. Programming club "Interface" 2019 Programming Exhibition Project
 ### Lecture materials
 - [Together-CPP](https://github.com/skyil7/Together-CPP)
   - Materials for Online C++ Lecture I made.
