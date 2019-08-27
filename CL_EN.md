@@ -1,4 +1,5 @@
 # Gio Paik (a.k.a skyil)
+> If you want Korean Cover Letter, Click [Here](https://github.com/skyil7/Cover-Letter/blob/master/CL_KO.md)
 ## Hello Github!
 I am 18 years old university student who wants to be a top-class software engineer. 
 ## Education
@@ -51,6 +52,9 @@ I am 18 years old university student who wants to be a top-class software engine
 - [Music of Today](https://github.com/skyil7/Music_of_Today)(2019.07.24 ~ 2019.08.01)
   - Small Music Community web site to share and recommend today's music.
   - Deploy on AWS EB
+- [Piano2Midi](https://github.com/skyil7/Piano2Midi)
+  - Project for practicing Magenta lib.
+  - Convert .wav Piano music to .mid Digital Score sheet using deep learning.
 ### Team Projects
 - [Moment](https://github.com/skyil7/Moment)
   - likelion Hackathon 2019
@@ -58,6 +62,12 @@ I am 18 years old university student who wants to be a top-class software engine
 - [Classical_Reading_CBT](https://github.com/sejong-interface/2019_Classical_Reading)
   - Sejong Univ. Classical literature Study App for Android.
   - Sejong Univ. Programming club "Interface" 2019 Programming Exhibition Project
+- [Interface Hackathon 2019](https://github.com/skyil7/InterfaceHackathon2019)
+  - Sejong Univ. Programming club "Interface" Hackathon, in 2019.
+  - Club Website remake & SKT NUGU Speech bot.
+- [What Should I draw?](https://github.com/skyil7/Masterpiece_boramboram)
+  - likelion Toy project
+  - Paint Commision Matching web service.
 ### Lecture materials
 - [Together-CPP](https://github.com/skyil7/Together-CPP)
   - Materials for Online C++ Lecture I made.
