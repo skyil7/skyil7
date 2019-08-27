@@ -1,4 +1,5 @@
 # 백지오 [Paik Gio]
+> If you want English Cover Letter, Click [Here](https://github.com/skyil7/Cover-Letter/blob/master/CL_EN.md)
 ## 반갑습니다!
 최상의 위치에서, 최선을 다하는 프로그래머를 꿈꾸는 대학생입니다.
 Django를 이용한 웹 개발을 주로 하고 있으며, TensorRT를 활용한 인공지능 개발을 배우고 있습니다.
