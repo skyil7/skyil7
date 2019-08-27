@@ -1,5 +1,5 @@
 # Gio Paik (a.k.a skyil)
-> If you want Korean Cover Letter, Click [Here](https://github.com/skyil7/Cover-Letter/blob/master/CL_KO.md)
+> 한국어 깃헙 설명서를 보고 싶으시다면, [여기](https://github.com/skyil7/Cover-Letter/blob/master/README.md)를 눌러주세요.
 ## Hello Github!
 I am 18 years old university student who wants to be a top-class software engineer. 
 ## Education
