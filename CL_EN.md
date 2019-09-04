@@ -65,9 +65,9 @@ I am 18 years old university student who wants to be a top-class software engine
 - [Interface Hackathon 2019](https://github.com/skyil7/InterfaceHackathon2019)
   - Sejong Univ. Programming club "Interface" Hackathon, in 2019.
   - Club Website remake & SKT NUGU Speech bot.
-- [What Should I draw?](https://github.com/skyil7/Masterpiece_boramboram)
-  - likelion Toy project
-  - Paint Commision Matching web service.
+- [Amathon2019](https://github.com/skyil7/Amathon2019-4Flix-with-Security)
+  - AWS Hackathon 2019 Project.
+  - Used AWS SES, E3, RDS, EB.
 ### Lecture materials
 - [Together-CPP](https://github.com/skyil7/Together-CPP)
   - Materials for Online C++ Lecture I made.
