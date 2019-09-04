@@ -21,10 +21,10 @@ Django를 이용한 웹 개발을 주로 하고 있으며, TensorRT를 활용한
 - SQL
 - JavaScript
 ### 사용 프레임워크
-- Spring, Spring Boot
-- MyBatis, Maven(Gradle)
 - Django
 - TensorFlow
+- Spring, Spring Boot
+- MyBatis, Maven(Gradle)
 ### 언어
 - 한국어 원어민
 - 영어 상급
@@ -66,9 +66,9 @@ Django를 이용한 웹 개발을 주로 하고 있으며, TensorRT를 활용한
 - [InterfaceHackathon2019](https://github.com/skyil7/InterfaceHackathon2019)
   - 세종대학교 중앙 프로그래밍 동아리 인터페이스 2019년 해커톤
   - 인페 웹사이트 리메이크와 NUGU를 통한 동아리 일정 확인 서비스
-- [모그리면돼?](https://github.com/skyil7/Masterpiece_boramboram)
-  - 멋쟁이사자처럼 내부 프로젝트
-  - 그림 커미션 매칭 
+- [Amathon2019](https://github.com/skyil7/Amathon2019-4Flix-with-Security)
+  - AWS 해커톤 2019 프로젝트
+  - AWS SES, E3, RDS, EB 사용
 ### 강의
 - [Together-CPP](https://github.com/skyil7/Together-CPP)
   - 알고리즘 동아리를 위해 만든 유튜브 강의 "함께해요, C++"에서 짠 실습 코드들
