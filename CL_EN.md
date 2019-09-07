@@ -1,7 +1,7 @@
 # Gio Paik (a.k.a skyil)
 > 한국어 깃헙 설명서를 보고 싶으시다면, [여기](https://github.com/skyil7/Cover-Letter/blob/master/README.md)를 눌러주세요.
 ## Hello Github!
-I am 18 years old university student who wants to be a top-class software engineer. 
+I am 18 years old university student who wants to be a top-class software engineer and a pioneer of AI Industry.
 ## Education
 - Studied Software development at YangYoung Digital High School (2016 ~ 2019)
 - Bachelor of Computer Science, Sejong University (2019 ~)
