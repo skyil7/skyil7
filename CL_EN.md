@@ -1,7 +1,9 @@
 # Gio Paik (a.k.a skyil)
 > 한국어 깃헙 설명서를 보고 싶으시다면, [여기](https://github.com/skyil7/Cover-Letter/blob/master/README.md)를 눌러주세요.
 ## Hello Github!
-I am 18 years old university student who wants to be a top-class software engineer and a pioneer of AI Industry.
+I am 18 years old university student who dreams an utopia with AI Technology for "Just Person".
+
+Learning AI using TF, Keras. Also like toy project using Django.
 ## Education
 - Studied Software development at YangYoung Digital High School (2016 ~ 2019)
 - Bachelor of Computer Science, Sejong University (2019 ~)
@@ -13,17 +15,16 @@ I am 18 years old university student who wants to be a top-class software engine
 - 정보처리기능사 (Korean Certificate about basic DBMS, SQL and basic computer knowledge)
 - OCJP (Oracle Certified Java Programmer)
 ## Skills
-### Programming Language & Framework
-- Python
+### Main Language
+- ***Python***
 - JAVA
 - C, C++
 - SQL
-- JavaScript
 ### Framework
+- TensorFlow, Keras
+- Django, DRF
+- Pandas
 - Spring, Spring Boot
-- MyBatis, Maven(Gradle)
-- Django
-- TensorFlow
 ### Language
 - Korean (native)
 - English
@@ -91,6 +92,12 @@ I am 18 years old university student who wants to be a top-class software engine
 - [TensorFlow Study](https://github.com/skyil7/TensorFlow_Study)
   - AI programming with TensorFlow
   - Make, Edit, Understand
+- [Keras_Study](https://github.com/skyil7/Keras_Study)
+  - AI Programming with Keras
+  - To Share my knowledge with my friends, I made some lecture material for keras.
+- [DataScience_Study](https://github.com/skyil7/DataScience_Study)
+  - Data Analysis, Formatting, Mining Practice using Pandas and etc..
+  - AI Dev is not enough. I will be a Data Scientist & AI Dev.
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/%EC%A7%80%EC%98%A4-%EB%B0%B1-476348175/?locale=en_US)
 - [Github.io](https://skyil7.github.io)
