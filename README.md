@@ -1,8 +1,8 @@
 # 백지오 [Paik Gio]
 > If you want English Cover Letter, Click [Here](https://github.com/skyil7/Cover-Letter/blob/master/CL_EN.md)
 ## 반갑습니다!
-최상의 위치에서, 최선을 다하는 프로그래머를 꿈꾸는 대학생입니다.
-Django를 이용한 웹 개발을 주로 하고 있으며, TensorRT를 활용한 인공지능 개발을 배우고 있습니다.
+그냥 사람을 위한 AI 개발자를 꿈꾸는 소프트웨어 개발자입니다.
+TensorFlow를 활용한 AI 개발을 주로 하며, Django와 AWS를 활용한 서비스 개발을 취미로 하고 있습니다.
 ## 학력
 - 양영디지털고등학교 소프트웨어 개발과 졸업 (2016년 ~ 2019년)
 - 세종대학교 컴퓨터공학과 19학번 재학중
@@ -14,17 +14,16 @@ Django를 이용한 웹 개발을 주로 하고 있으며, TensorRT를 활용한
 - 정보처리기능사
 - OCJP (Oracle Certified Java Programmer)
 ## 기술
-### 사용언어
-- Python
+### 주로 사용하는 언어
+- ***Python***
 - JAVA
 - C, C++
 - SQL
-- JavaScript
 ### 사용 프레임워크
-- Django
-- TensorFlow
+- TensorFlow, Keras
+- Pandas
+- Django, DRF
 - Spring, Spring Boot
-- MyBatis, Maven(Gradle)
 ### 언어
 - 한국어 원어민
 - 영어 상급
@@ -93,6 +92,12 @@ Django를 이용한 웹 개발을 주로 하고 있으며, TensorRT를 활용한
 - [TensorFlow Study](https://github.com/skyil7/TensorFlow_Study)
   - 텐서플로우를 활용한 인공지능 연습
   - 자세한 개념은 생략하고 구현 
+- [Keras_Study](https://github.com/skyil7/Keras_Study)
+  - 텐서플로우 고수준 API 케라스 연습
+  - 개인 공부 이외에 팀 스터디와 함께 진행하기 때문에 강의자료 존재.
+- [DataScience_Study](https://github.com/skyil7/DataScience_Study)
+  - Pandas를 주로 사용한 데이터 획득, 정형화, 분석 연습
+  - 개발만으로는 밥그릇 건사하기 힘들 것 같아서..ㅎ
 ## 외부 
 - [LinkedIn](https://www.linkedin.com/in/지오-백-476348175/)
 - [Github.io](https://skyil7.github.io)
