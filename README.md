@@ -2,7 +2,7 @@
 > If you want English Cover Letter, Click [Here](https://github.com/skyil7/Cover-Letter/blob/master/CL_EN.md)
 ## 반갑습니다!
 그냥 사람을 위한 AI 개발자를 꿈꾸는 소프트웨어 개발자입니다.
-TensorFlow를 활용한 AI 개발을 주로 하며, Django와 AWS를 활용한 서비스 개발을 취미로 하고 있습니다.
+Python 기반 AI 딥러닝과 Django 기반 웹 개발. Java 기반 웹/앱 개발을 주로 하고 있습니다.
 ## 학력
 - 양영디지털고등학교 소프트웨어 개발과 졸업 (2016년 ~ 2019년)
 - 세종대학교 컴퓨터공학과 19학번 재학중
