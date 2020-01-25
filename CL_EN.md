@@ -1,13 +1,12 @@
-# Gio Paik (a.k.a skyil)
+# Gio Paik
 > 한국어 깃헙 설명서를 보고 싶으시다면, [여기](https://github.com/skyil7/Cover-Letter/blob/master/README.md)를 눌러주세요.
 ## Hello Github!
-I am 18 years old university student who dreams an utopia with AI Technology for "Just Person".
+I am 19 years old university student who dreams the future with personal AI.
 
-Learning AI using TF, Keras. Also like toy project using Django.
+Learning and researching DL using Python and Keras.
 ## Education
 - Studied Software development at YangYoung Digital High School (2016 ~ 2019)
-- Bachelor of Computer Science, Sejong University (2019 ~)
-- Undergraduate researcher, Dept. of Computer Engineering, Sejong University (2019 ~)
+- Undergrate Student, Dept of Computer Science, Sejong University (2019 ~)
 ## Job Experience
 - Worked at IdeaConcert as Web Developer Intern (2017)
 ## Certificate
@@ -21,9 +20,9 @@ Learning AI using TF, Keras. Also like toy project using Django.
 - C, C++
 - SQL
 ### Framework
-- TensorFlow, Keras
+- TensorFlow, ***Keras***
 - Django, DRF
-- Pandas
+- Pandas, Seaborn
 - Spring, Spring Boot
 ### Language
 - Korean (native)
@@ -32,7 +31,6 @@ Learning AI using TF, Keras. Also like toy project using Django.
   - Talking Only
 ### Cooperation
 - Github
-- Trello
 - Slack
 ## Portfolio
 ### Projects
@@ -54,7 +52,6 @@ Learning AI using TF, Keras. Also like toy project using Django.
   - Small Music Community web site to share and recommend today's music.
   - Deploy on AWS EB
 - [Piano2Midi](https://github.com/skyil7/Piano2Midi)
-  - Project for practicing Magenta lib.
   - Convert .wav Piano music to .mid Digital Score sheet using deep learning.
 ### Team Projects
 - [Moment](https://github.com/skyil7/Moment)
@@ -99,6 +96,6 @@ Learning AI using TF, Keras. Also like toy project using Django.
   - Data Analysis, Formatting, Mining Practice using Pandas and etc..
   - AI Dev is not enough. I will be a Data Scientist & AI Dev.
 ## Contact Me
+- [Tech Blog](https://www.skyil.tistory.com)
 - [LinkedIn](https://www.linkedin.com/in/%EC%A7%80%EC%98%A4-%EB%B0%B1-476348175/?locale=en_US)
-- [Github.io](https://skyil7.github.io)
 - [Email](giopaik@naver.com)
