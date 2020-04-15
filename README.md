@@ -5,8 +5,7 @@
 딥러닝으로 뭔가 이뤄내고 싶어하는 학생입니다. 파이썬과 힙합을 좋아합니다.🤙  
 척척학사로 끝나지는 않을 것 같고, 석사는 하지 싶지만 어디로 갈지는 모르겠네요.
 
-> 학력/경력 등 보러가기: [링크드인](https://www.linkedin.com/in/giopaik/)
-> 블로그 보러가기: [블로그](https://skyil.tistory.com/)
+> [링크드인](https://www.linkedin.com/in/giopaik/), [블로그](https://skyil.tistory.com/), [Facebook](https://www.facebook.com/profile.php?id=100007750893990)
 ## 관심분야
 - 딥러닝
 	- Generative Models, Computer Vision, Reinforcement Learning
