@@ -1,7 +1,7 @@
 # Gio Paik<sub> @skyil7</sub>
 Hi! I am an Ambitious Student in South Korea. Fell in love with Deep Learning since 2015.
 
-## 🧑‍🎓 Education
+## 🎓 Education
 - Undergraduate student in Dept. of Computer Science, Sejong University (2019 ~)
 - High School Diploma in Dept. of Software Development, YangYoung Digital High School (2016 ~ 2019)
 
