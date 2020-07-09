@@ -13,7 +13,7 @@ Hi! I am an Ambitious Student in South Korea. Fell in love with Deep Learning si
 - Can talk about IT and future all day with you
 
 ## 🔥 Interest
-**Main**: Computer Vision / Generative Models / Lightweight DL / Software Education
+**Main**: Computer Vision / Generative Models / Lightweight DL / Software Education   
 **Side**: Game / Music / Movie
 
 ## 👋 Contact
