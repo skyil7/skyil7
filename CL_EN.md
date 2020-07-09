@@ -1,5 +1,5 @@
 # Gio Paik
-> 한국어 깃헙 설명서를 보고 싶으시다면, [여기](https://github.com/skyil7/Cover-Letter/blob/master/README.md)를 눌러주세요.
+> 한국어로 보고 싶으시다면, [여기](https://github.com/skyil7/skyil7/blob/master/CL_KO.md)를 눌러주세요.
 ## Hello Github!
 I am university student who wants to do something with Deep Learning. I love Python and K-Hip Hop!🤙  
 
