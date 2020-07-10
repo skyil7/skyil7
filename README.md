@@ -17,6 +17,7 @@ Hi! I am an Ambitious Student in South Korea. Fell in love with Deep Learning si
 **Side**: Game / Music / Movie
 
 ## 👋 Contact
+- EMAIL: giopaik@naver.com
 - Facebook: [https://www.facebook.com/giopaik1/](https://www.facebook.com/giopaik1/)
 - Instagram: [https://www.instagram.com/giopaik](https://www.instagram.com/giopaik)
 - LinkedIn: [https://www.linkedin.com/in/giopaik/](https://www.linkedin.com/in/giopaik/)
