@@ -25,5 +25,5 @@ Hi! I am an Ambitious Student in South Korea. Fell in love with Deep Learning si
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://skyil.tistory.com/)](https://skyil.tistory.com/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giopaik/)](https://www.linkedin.com/in/giopaik/) 
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/skyil7/)](https://www.kaggle.com/skyil7/) 
-[![Mail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giopaik@naver.com)](mailto:giopaik@naver.com)
+[![Mail Badge](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giopaik@naver.com)](mailto:giopaik@naver.com)
 </div>
