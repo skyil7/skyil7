@@ -28,6 +28,6 @@ Hi! I am an Ambitious Student in South Korea. Fell in love with Deep Learning si
 [![Mail Badge](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giopaik@naver.com)](mailto:giopaik@naver.com)
 </div>
 
-## Cards
+## 🏷️ Cards
 [![Gio Paik's github stats](https://github-readme-stats.vercel.app/api?username=skyil7&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyil7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
