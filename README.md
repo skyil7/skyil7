@@ -1,4 +1,5 @@
 # Gio Paik<sub> @skyil7</sub>
+`Can not correspond to any contact until june due to military duty`
 Hi! I am an Ambitious Student in South Korea. Fell in love with Deep Learning since 2015.
 
 ## 🎓 Education
