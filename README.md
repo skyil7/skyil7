@@ -1,7 +1,4 @@
 # Gio Paik<sub> @skyil7</sub>
-Temporally working at Republic of Korean Air Force. Hard to check github.    
-If you want to contact with me, please leave me an email via `giopaik@naver.com`
-
 Hi! I am an Ambitious Student in South Korea. Fell in love with Deep Learning since 2015.
 
 ## 🎓 Education
