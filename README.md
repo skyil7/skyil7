@@ -1,16 +1,13 @@
 # Gio Paik<sub> @skyil7</sub>
-Hi! I am an Ambitious Student in South Korea. Fell in love with Deep Learning since 2015.
+- Software Developer (2016 ~ )
+- Deep Learning & Tech Lover Since 2015
 
 ## 🎓 Education
 - Undergraduate student in Dept. of Computer Science, Sejong University (2019 ~)
 - High School Diploma in Dept. of Software Development, YangYoung Digital High School (2016 ~ 2019)
 
-## 💪 Skills
-- Make funny thing with Python
-- Study Deep Learning far into the night
-- Can pretend to understand almost every Deep Learning paper
-    - Implementation is also possible with about 30% probability 😵
-- Can talk about IT and future all day with you
+<!-- ## 👨‍✈️ Career
+- Software Engineer at Republic of Korea Air Force (2021.03.15. ~ 2022.12.15.) -->
 
 ## 🔥 Interest
 **Main**: Computer Vision / Generative Models / Lightweight DL / Software Education   
