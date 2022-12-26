@@ -6,8 +6,8 @@
 - Undergraduate student in Dept. of Computer Science, Sejong University (2019 ~)
 - High School Diploma in Dept. of Software Development, YangYoung Digital High School (2016 ~ 2019)
 
-<!-- ## 👨‍✈️ Career
-- Software Engineer at Republic of Korea Air Force (2021.03.15. ~ 2022.12.15.) -->
+## 👨‍✈️ Career
+- Software Engineer at ISMG, Republic of Korea Air Force (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 Interest
 **Main**: Computer Vision / Generative Models / Lightweight DL / Software Education   
