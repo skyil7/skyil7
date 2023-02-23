@@ -3,10 +3,11 @@
 - Deep Learning & Tech Lover Since 2015
 
 ## 🎓 Education
-- Undergraduate student in Dept. of Computer Science, Sejong University (2019 ~)
+- BS in Dept. of Computer Science, Sejong University (2019 ~ )
 - High School Diploma in Dept. of Software Development, YangYoung Digital High School (2016 ~ 2019)
 
 ## 👨‍✈️ Career
+- Sejong Robotics and Computer Vision Lab (2023.03.06 ~ )
 - Software Engineer at ISMG, Republic of Korea Air Force (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 Interest
