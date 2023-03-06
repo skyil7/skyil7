@@ -7,7 +7,7 @@
 - High School Diploma in Dept. of Software Development, YangYoung Digital High School (2016 ~ 2019)
 
 ## 👨‍✈️ Career
-- Sejong Robotics and Computer Vision Lab (2023.03.06 ~ )
+- Undergraduate Research Student at [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/) (2023.03.06 ~ )
 - Software Engineer at ISMG, Republic of Korea Air Force (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 Interest
