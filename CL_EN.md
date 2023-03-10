@@ -34,8 +34,8 @@
 ### Lecture
 - [Dive into Deep Learning with 제주코딩베이스캠프](https://paullabkorea.medium.com/%EB%B0%B0%EC%9B%8C%EC%84%9C-%EB%82%A8-%EC%A3%BC%EB%8B%A4-12%EC%9D%BC%EC%9D%98-%EC%97%AC%EC%A0%95-%EB%98%90-%EA%B7%B8-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EC%97%AC%EC%A0%95-f872a4e060e2)
   - Instructor, 2-hour deep learning introduction lecture. More than 100 people participated online (January 2021)
-- [Deep Learning for Everyone](https://github.com/skyil7/AI_WEB_POOL_YD/blob/develop/AboutAI.md)
-  - Instructor, Hosted by Sejong University's programming club <Interface>. About 10 people participated online (Summer 2020)
+- [Deep Learning for Everyone](https://github.com/sejonginterface/Study_AI)
+  - Instructor, Hosted by Sejong University's programming club **Interface**. About 10 people participated online (Summer 2020)
 
 ### Presentation
 - [PR-GIO: 1 Week 1 Paper Project](https://github.com/skyil7/paperReview)
