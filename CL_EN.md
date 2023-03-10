@@ -1,69 +1,46 @@
 # Gio Paik
 > 한국어로 보고 싶으시다면, [여기](https://github.com/skyil7/skyil7/blob/master/CL_KO.md)를 눌러주세요.
-## Hello Github!
-I am university student who wants to do something with Deep Learning. I love Python and K-Hip Hop!🤙  
 
-> [LinkedIn](https://www.linkedin.com/in/giopaik/), [Blog](https://skyil.tistory.com/)(Korean), [Facebook](https://www.facebook.com/profile.php?id=100007750893990)
-## Interests
-- Deep Learning
-	- Generative Models, Computer Vision, Reinforcement Learning
-- Education
-	- Online Programming Education and Programming Education as volunteer.
-	- I want to write a book some day in future.
-- Python
-	- I love to make something fun with python like [this thing](https://github.com/skyil7/LOL_AutoPicker).
-## What I've Done!
-### Contribution
-- [Live Corona Map](https://github.com/LiveCoronaDetector/livecod)
-	- Korean COVID-19 Spreading map Project
-	- I made domestic corona information crawler and visualization on map.
-- [NYU Deep Learning Class Translation](https://github.com/Atcold/pytorch-Deep-Learning)
-	- Korean Translation Project of NYU Deep Learning Class on 2020 Spring.
-### Personal Project
-- [Project Insight](https://github.com/skyil7/Project-Insight) (2017.07.21 ~ 2017.08.11)
-  - Google News Crawler using daemon.
-  - Using [Google Chart API](https://developers.google.com/chart/), this web site shows how many newses are uploaded in last few hours with three categories. (Politics, Military, IT tech)
-- [MVC_Pattern_Practice_JSP](https://github.com/skyil7/MVC_Pattern_Practice_JSP) (2017.08)
-  - I made a simple MVC pattern website with JSP.
-  - Simple Account system and pagination function.
-- [My-First-Spring-Web-Project](https://github.com/skyil7/My-First-Spring-Web-Project) (2017.08 ~ 2017.11)
-  - My first web board project using Spring MVC and MySQL DB
-  - Code is too dirty and out of my mind. So i decided to remake.
-  - There's a [First-Spring-Project_Remake](https://github.com/skyil7/First-Spring-Project_Remake) with clean code and [SE2](https://github.com/naver/smarteditor2) support!
-- [Music of Today](https://github.com/skyil7/Music_of_Today)(2019.07.24 ~ 2019.08.01)
-  - Small Music Community web site to share and recommend today's music.
-  - Deploy on AWS EB
-- [Piano2Midi](https://github.com/skyil7/Piano2Midi)
-  - Convert .wav Piano music to .mid Digital Score sheet using deep learning.
-  - I forgot How I made this.. 😵
-### Team Project
-- [Moment](https://github.com/skyil7/Moment)
-  - likelion Hackathon 2019
-  - Personal photo album based on Naver Map API
-- [Interface Hackathon 2019](https://github.com/skyil7/InterfaceHackathon2019)
-  - Sejong Univ. Programming club "Interface" Hackathon, in 2019.
-  - Club Website remake & SKT NUGU Speech bot.
-- [Amathon2019](https://github.com/skyil7/Amathon2019-4Flix-with-Security)
-  - AWS Hackathon 2019 Project.
-  - Used AWS SES, E3, RDS, EB.
-  - I've worked with the people who I never met before, but it was so great and happy.
-### Lecture
-- [Together-CPP](https://github.com/skyil7/Together-CPP)
-  - Materials for Online C++ Lecture I made.
- - [Interface Python Study](https://github.com/skyil7/IF_Python_Study)
-	 - Python Study Materials for Interface, programming club in Sejong University.
-	 - Due to COVID-19, I couldn't use this.. T.T
-### Study
-- [Everyday_Programming](https://github.com/skyil7/Everyday_Programming)
-  - Algorithm questions from [매일프로그래밍](http://mailprogramming.com/) service.
-- [Algorithm Study](https://github.com/skyil7/AlgorithmStudy)
-  - Advanced Algorithm study code
-  - Mostly, problems from [BOJ](https://acmicpc.net)
-- [likeLion](https://github.com/skyil7/likeLion)
-  - Codes from Django web Dev Crew Likelion.
-- [TensorFlow Study](https://github.com/skyil7/TensorFlow_Study)
-  - DL models with TensorFlow
-- [Keras_Study](https://github.com/skyil7/Keras_Study)
-  - AI Programming with Keras
-- [DataScience_Study](https://github.com/skyil7/DataScience_Study)
-  - Data Analysis, Formatting, Mining Practice using Pandas and etc..
+## 🎓 Education
+- BS in Dept. of Computer Science, Sejong University (2019 ~ )
+- High School Diploma in Dept. of Software Development, YangYoung Digital High School (2016 ~ 2019)
+
+## 👨‍✈️ Career
+- Undergraduate Research Student at [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/) (2023.03.06 ~ )
+- Software Engineer at ISMG, Republic of Korea Air Force (2021.03.15. ~ 2022.12.14.)
+
+## 🔥 Interest
+- Computer Vision, Video Retrieval, Generative Models, Lightweight DL, X-AI
+- Software Education
+
+## 🎖️ Awards
+- 2021 SW oriented University Joint Hackathon - Minister of Science and ICT's Prize
+  - [DIVE IN](https://github.com/teamDiveIn/INTRO), Zoom-Turdy Platform with Pose Estimation-based Learning Concentration Evaluation Technology
+  - AI Developer, Developed a real-time, lightweight pose estimation model for web browser.
+- 2021 ROKMND Online Hackathon  - Director of Information and Communication Industry Promotion Agency's Prize
+  - [POOL](https://github.com/skyil7/AI_WEB_POOL_YD), NLP-based career management SNS
+  - AI Developer, Developed a kogpt-based text-generation model and a KoBART-based text summary model.
+- 2021 Sejong University Startup Idea Contest - Grand Prize
+- 2020 Sejong University SW/AI Hackathon - Grand Prize
+- 2019 TOPCIT Award - Awarded by President of Sejong University
+
+## 😎 Experiences
+### Open Source
+- [Live Covid Map](https://github.com/LiveCoronaDetector/livecod)
+  - Web Developer, Developed COVID-19 information crawler and COVID-19 spread visualization on Naver Map.
+- [NYU DL lecture translation](https://github.com/Atcold/pytorch-Deep-Learning)
+  - Translator, Translated Deep Learning lecture by Prof. Yann LeCun and Prof. Alfredo Canziani.
+
+### 강의
+- [Dive into Deep Learning with 제주코딩베이스캠프](https://paullabkorea.medium.com/%EB%B0%B0%EC%9B%8C%EC%84%9C-%EB%82%A8-%EC%A3%BC%EB%8B%A4-12%EC%9D%BC%EC%9D%98-%EC%97%AC%EC%A0%95-%EB%98%90-%EA%B7%B8-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EC%97%AC%EC%A0%95-f872a4e060e2)
+  - Instructor, 2-hour deep learning introduction lecture. More than 100 people participated online (January 2021)
+- [Deep Learning for Everyone](https://github.com/skyil7/AI_WEB_POOL_YD/blob/develop/AboutAI.md)
+  - Instructor, Hosted by Sejong University's programming club <Interface>. About 10 people participated online (Summer 2020)
+
+### 개인 발표
+- [PR-GIO: 1 Week 1 Paper Project](https://github.com/skyil7/paperReview)
+  - Presentor, Summer 2020
+- Self Branding for SW developer
+  - 4th ROKAF ISMG IT Conference, Early 2021
+-  Efficient review and planning skills to quicken Self-Development
+  - 6th ROKAF ISMG/KATUSA IT Conference, MILICON, Early 2023
