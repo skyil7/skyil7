@@ -26,7 +26,7 @@
 
 ## 😎 Experiences
 ### Open Source
-- [Live Covid Map](https://github.com/LiveCoronaDetector/livecod)
+- [Live COVID Map](https://github.com/LiveCoronaDetector/livecod)
   - Web Developer, Developed COVID-19 information crawler and COVID-19 spread visualization on Naver Map.
 - [NYU DL lecture translation](https://github.com/Atcold/pytorch-Deep-Learning)
   - Translator, Translated Deep Learning lecture by Prof. Yann LeCun and Prof. Alfredo Canziani.
