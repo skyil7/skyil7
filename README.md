@@ -24,6 +24,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giopaik/)](https://www.linkedin.com/in/giopaik/) 
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/skyil7/)](https://www.kaggle.com/skyil7/) 
 [![Mail Badge](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giopaik@naver.com)](mailto:giopaik@naver.com)
+<br />
+  Want more Information about me? Please Click [Here](https://github.com/skyil7/skyil7/blob/master/CL_EN.md)
 </div>
 
-> Want more Information about me? Please Click [Here](https://github.com/skyil7/skyil7/blob/master/CL_EN.md)
