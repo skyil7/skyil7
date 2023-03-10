@@ -1,78 +1,46 @@
 # 백지오 [Paik Gio]
 > If you want English Cover Letter, Click [Here](https://github.com/skyil7/skyil7/blob/master/CL_EN.md)
 
-## 관심분야
-- 딥러닝
-	- 딥러닝의 모든 것!
-	- 특히 인공지능이 할 수 있으리라고 생각도 못한 것들
-- 교육
-	- 온라인 코딩 교육, 교육 봉사 등에 관심이 많습니다.
-	- 인강이나 블로그 등을 시도해 보고 있습니다.
-	- 컨텍은 giopaik@naver.com 으로.. ㅎㅎ
-- Python
-	- 파이썬으로 이런저런 프로그램을 짜는 걸 좋아합니다. [이런거](https://github.com/skyil7/LOL_AutoPicker)라던지..
-	- 파이썬 좋아요. 추천 도서는 Fluent Python ㅎㅎ
-## 프로젝트들
-### 오픈소스
+## 🎓 학력
+- 세종대학교 컴퓨터공학과 (2019 ~ )
+- 양영디지털고등학교 소프트웨어 개발과 (2016 ~ 2019)
+
+## 👨‍✈️ 경력
+- [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/), 학부연구생 (2023.03.06 ~ )
+- 대한민국 공군 정보체계관리단 체계개발대, 소프트웨어 개발병 (2021.03.15. ~ 2022.12.14.)
+
+## 🔥 관심영역
+- Computer Vision, Video Retrieval, Generative Models, Lightweight DL, X-AI
+- Software Education
+
+## 🎖️ 주요 수상경력
+- 2021 SW중심대학 공동해커톤 - 과학기술정보통신부장관상
+  - [DIVE IN](https://github.com/teamDiveIn/INTRO), Pose Estimation 기반 학습 집중도 평가 기술이 적용된 줌터디 플렛폼
+  - AI Developer, JS 환경에서 동작하는 Lightweight Pose Estimation 모델 개발
+- 2021 군장병 온라인 해커톤 - 정보통신산업진흥원장상
+  - [POOL](https://github.com/skyil7/AI_WEB_POOL_YD), NLP 기반 커리어 관리 SNS
+  - AI Developer, 입력 텍스트의 뒷 부분을 생성하는 kogpt 기반 DL 모델, KoBART 기반 텍스트 요약 모델 개발
+- 2021 세종대학교 창업 아이디어 경진대회 - 대상
+- 2020 세종대학교 SW/AI 해커톤 - 대상
+- 2019 TOPCIT 성적 우수자 포상 - 세종대학교 총장상
+
+## 😎 경험
+### 오픈소스 프로젝트
 - [라이브 코로나맵](https://github.com/LiveCoronaDetector/livecod)
-	- 국내 코로나 19 지도 프로젝트에 1기, 2기로 참여했다.
-	- 국내 코로나 감염자 수 크롤러, naver map API 기반 감염자 표시기 등을 만들었다.
-	- 처음으로 Slack과 Notion을 활용한 채계적 협업을 해봤는데, 생각보다 즐거웠다!
+  - Web Developer, 코로나 확진자 정보 크롤러, Naver Map API 기반 감염 확산 시각화
 - [NYU 딥러닝 번역 프로젝트](https://github.com/Atcold/pytorch-Deep-Learning)
-	- 뉴욕대의 Yann LeCun 교수님, Alfredo 교수님이 진행하는 딥러닝 클래스 번역에 기여했다.
-	- 내가 어쩌다보니 한국 번역팀 PM? 같은게 되었는데, 재밌었다.
-	- 번역하면서 공부도 엄청했다. 확실히 수준이 높더라.
-### 개인 프로젝트
-- [Project Insight](https://github.com/skyil7/Project-Insight) (2017.07.21 ~ 2017.08.11)
-  - Daemon을 활용하여 Google News Crawler를 개발하여 [Google Chart API](https://developers.google.com/chart/)를 이용해 사용자에게 카테고리별 최신 이슈를 보여주는 웹 사이트를 개발하였다.
-- [MVC_Pattern_Practice_JSP](https://github.com/skyil7/MVC_Pattern_Practice_JSP) (2017.08)
-  - JSP를 활용하여 프레임워크 없이 MVC 패턴 게시판을 개발하였다.
-  - 간단한 회원가입과 페이징 기능이 있다.
-- [My-First-Spring-Web-Project](https://github.com/skyil7/My-First-Spring-Web-Project) (2017.08 ~ 2017.11)
-  - Spring MVC Framework와 MySQL을 활용한 첫 web 게시판 프로젝트
-  - 코드가 너무 난해해지고 정리가 안되어 처음부터 재개발하였다.
-  - 스마트에디터2([SE2](https://github.com/naver/smarteditor2))를 제공하고 더 클린한 코드를 갖춘 [First-Spring-Project_Remake](https://github.com/skyil7/First-Spring-Project_Remake)가 있다.
-- [Music of Today](https://github.com/skyil7/Music_of_Today)(2019.07.24 ~ 2019.08.01)
-  - 장고 CBV 연습 및 웹 실력 향상용 프로젝트
-  - 오늘의 음악을 공유, 추천해주는 커뮤니티 사이트
-  - 만들다 말았다.
-- [Piano2Midi](https://github.com/skyil7/Piano2Midi)
-  - Magenta 라이브러리 연습용으로 만든 프로그램
-  - WAV 형식 피아노 음악을 입력하면 MIDI 형식 디지털 악보로 변환해 줌
-  - 다 까먹었다... 원리는 기억하니까 된 거 아닐까?
-### 팀 프로젝트
-- [Moment](https://github.com/skyil7/Moment)
-  - 2019년 멋쟁이사자처럼 해커톤 프로젝트
-  - 네이버 지도위에 자신의 발자취를 남길 수 있는 사이트
-  - 번아웃 중에 만든거라 좀 맘이 아프다..😂
-- [InterfaceHackathon2019](https://github.com/skyil7/InterfaceHackathon2019)
-  - 세종대학교 중앙 프로그래밍 동아리 인터페이스 2019년 해커톤
-  - 인페 웹사이트 리메이크와 NUGU를 통한 동아리 일정 확인 서비스
-  - 뭔가 정신없이 만들긴 했는데 웹사이트 기획은 잘 하고 시작해야 하는 것 같다.
-- [Amathon2019](https://github.com/skyil7/Amathon2019-4Flix-with-Security)
-  - AWS 해커톤 2019 프로젝트
-  - AWS 서비스 있는데로 다 끌어다 썼다.. 하룻밤동안 한달치 공부했다.
-  - 처음만난 사람들이랑 작업했는데, 엄청 잘됐다! 그리고 내 인생 발표 중에 하나다. PPT를 너무 잘 만들었어 ㅎㅎ
+  - Translator, NYU의 Yann LeCun 교수님, Alfredo Canziani 교수님의 딥러닝 강의 한국어 번역 팀 운영 및 번역 기여
+
 ### 강의
-- [Together-CPP](https://github.com/skyil7/Together-CPP)
-  - 알고리즘 동아리를 위해 만든 유튜브 강의 "함께해요, C++"에서 짠 실습 코드들
- - [인터페이스 파이썬 스터디](https://github.com/skyil7/IF_Python_Study)
-	 - 세종대학교 프로그래밍 동아리 인페에서 쓸 파이썬 스터디 자료 및 인강
-	 - 코로나 땜에 강제 유튜버 행... 현강하구 싶다 ㅠㅠ
-### 공부
-- [Everyday_Programming](https://github.com/skyil7/Everyday_Programming)
-  - [매일프로그래밍](http://mailprogramming.com/)에서 제공하는 알고리즘 문제풀이
-- [Algorithm Study](https://github.com/skyil7/AlgorithmStudy)
-  - 체계적인 알고리즘 독학 공부
-  - 주로 백준 문제 풀이들
-- [likeLion](https://github.com/skyil7/likeLion)
-  - 웹 코딩 & 프로그래밍 동아리 멋쟁이사자처럼에서 활동하며 작성한 코드들
-- [TensorFlow Study](https://github.com/skyil7/TensorFlow_Study)
-  - 텐서플로우를 활용한 인공지능 연습
-  - 골빈해커님의 책으로 공부했는데, 이런저런 모델들을 빠르게 배울 수 있었다.
-- [Keras_Study](https://github.com/skyil7/Keras_Study)
-  - 텐서플로우 고수준 API 케라스 연습
-  - 창시자에게 배우는 케라스로 공부했다. 깊이가 상당해서 좋은 책이었다.
-- [DataScience_Study](https://github.com/skyil7/DataScience_Study)
-  - Pandas를 주로 사용한 데이터 획득, 정형화, 분석 연습
-  - 해야하는데...
+- [나만 알기 아운 딥러닝 with 제주코딩베이스캠프](https://paullabkorea.medium.com/%EB%B0%B0%EC%9B%8C%EC%84%9C-%EB%82%A8-%EC%A3%BC%EB%8B%A4-12%EC%9D%BC%EC%9D%98-%EC%97%AC%EC%A0%95-%EB%98%90-%EA%B7%B8-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EC%97%AC%EC%A0%95-f872a4e060e2)
+  - Instructor, 2시간 분량의 딥러닝 개론 강의. 온라인으로 100여명 참여 (2021년 1월)
+- [나만 알기 아쉬운 딥러닝](https://github.com/skyil7/AI_WEB_POOL_YD/blob/develop/AboutAI.md)
+  - Instructor, 세종대학교 프로그래밍 동아리 인터페이스에서 진행. 온라인으로 10여명 참여 (2020년 여름)
+
+### 개인 발표
+- [PR-GIO 1주 1논문 프로젝트](https://github.com/skyil7/paperReview)
+  - Presentor, 2020년 여름방학
+- 개발자를 위한 셀프 브랜딩
+  - 제4회 계룡전산한마당 (공군 정보체계관리단 내부 컨퍼런스), 2021년 초
+- 회고와 계획으로 빠르게 성장하기
+  - 제6회 계룡전산한마당, MILICON (공군 정보체계관리단 / 육군 카투사 내부 컨퍼런스), 2023년 초
