@@ -32,7 +32,7 @@
   - Translator, NYU의 Yann LeCun 교수님, Alfredo Canziani 교수님의 딥러닝 강의 한국어 번역 팀 운영 및 번역 기여
 
 ### 강의
-- [나만 알기 아운 딥러닝 with 제주코딩베이스캠프](https://paullabkorea.medium.com/%EB%B0%B0%EC%9B%8C%EC%84%9C-%EB%82%A8-%EC%A3%BC%EB%8B%A4-12%EC%9D%BC%EC%9D%98-%EC%97%AC%EC%A0%95-%EB%98%90-%EA%B7%B8-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EC%97%AC%EC%A0%95-f872a4e060e2)
+- [나만 알기 아까운 딥러닝 with 제주코딩베이스캠프](https://paullabkorea.medium.com/%EB%B0%B0%EC%9B%8C%EC%84%9C-%EB%82%A8-%EC%A3%BC%EB%8B%A4-12%EC%9D%BC%EC%9D%98-%EC%97%AC%EC%A0%95-%EB%98%90-%EA%B7%B8-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EC%97%AC%EC%A0%95-f872a4e060e2)
   - Instructor, 2시간 분량의 딥러닝 개론 강의. 온라인으로 100여명 참여 (2021년 1월)
 - [나만 알기 아쉬운 딥러닝](https://github.com/skyil7/AI_WEB_POOL_YD/blob/develop/AboutAI.md)
   - Instructor, 세종대학교 프로그래밍 동아리 인터페이스에서 진행. 온라인으로 10여명 참여 (2020년 여름)
