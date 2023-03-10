@@ -15,7 +15,7 @@
 
 ## 🎖️ Awards
 - 2021 SW oriented University Joint Hackathon - Minister of Science and ICT's Prize
-  - [DIVE IN](https://github.com/teamDiveIn/INTRO), Zoom-Turdy Platform with Pose Estimation-based Learning Concentration Evaluation Technology
+  - [DIVE IN](https://github.com/teamDiveIn/INTRO), Online Study Platform with Pose Estimation-based Learning Concentration Evaluation Technology
   - AI Developer, Developed a real-time, lightweight pose estimation model for web browser.
 - 2021 ROKMND Online Hackathon  - Director of Information and Communication Industry Promotion Agency's Prize
   - [POOL](https://github.com/skyil7/AI_WEB_POOL_YD), NLP-based career management SNS
