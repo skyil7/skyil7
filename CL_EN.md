@@ -43,7 +43,7 @@
 - Self Branding for SW developer
   - 4th ROKAF ISMG IT Conference, Early 2021
 -  Efficient review and planning skills to quicken Self-Development
-  - 6th ROKAF ISMG/KATUSA IT Conference, MILICON, Early 2023
+   - 6th ROKAF ISMG/KATUSA IT Conference, MILICON, Early 2023
 
 ## ✉️ Contact
 - giopaik@naver.com
