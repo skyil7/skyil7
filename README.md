@@ -28,3 +28,4 @@
   Want more Information about me? Please Click [Here](https://github.com/skyil7/skyil7/blob/master/CL_EN.md)
 </div>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskyil7%2Fhit-counter&count_bg=%233DBFC8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
