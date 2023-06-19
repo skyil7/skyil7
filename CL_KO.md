@@ -10,16 +10,18 @@
 - 대한민국 공군 정보체계관리단 체계개발대, 소프트웨어 개발병 (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 관심영역
-- Computer Vision, Video Retrieval, Generative Models, Lightweight DL, X-AI
+- Computer Vision, Video Retrieval, Generative Models, Multi-Modal
 - Software Education
 
 ## 🎖️ 주요 수상경력
-- 2021 SW중심대학 공동해커톤 - 과학기술정보통신부장관상
+- **과학기술정보통신부장관상** - 2021 SW중심대학 공동해커톤
   - [DIVE IN](https://github.com/teamDiveIn/INTRO), Pose Estimation 기반 학습 집중도 평가 기술이 적용된 줌터디 플렛폼
   - AI Developer, JS 환경에서 동작하는 Lightweight Pose Estimation 모델 개발
-- 2021 군장병 온라인 해커톤 - 정보통신산업진흥원장상
+  - 전국 39개 SW 중심대학 해커톤을 거쳐 선발된 인원 중 1등
+- **정보통신산업진흥원장상** - 2021 군장병 온라인 해커톤
   - [POOL](https://github.com/skyil7/AI_WEB_POOL_YD), NLP 기반 커리어 관리 SNS
   - AI Developer, 입력 텍스트의 뒷 부분을 생성하는 kogpt 기반 DL 모델, KoBART 기반 텍스트 요약 모델 개발
+- 2023 세종대학교 창의설계경진대회(캡스톤) - 대상
 - 2021 세종대학교 창업 아이디어 경진대회 - 대상
 - 2020 세종대학교 SW/AI 해커톤 - 대상
 - 2019 TOPCIT 성적 우수자 포상 - 세종대학교 총장상
