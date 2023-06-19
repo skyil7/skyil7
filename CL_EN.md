@@ -13,16 +13,18 @@
 - Computer Vision, Video Retrieval, Generative Models, Lightweight DL, X-AI
 - Software Education
 
-## 🎖️ Awards
-- 2021 SW oriented University Joint Hackathon - Minister of Science and ICT's Prize
+## 🎖️ Honors
+- **Minister of Science and ICT's Prize** - 2021 SW oriented University Joint Hackathon
   - [DIVE IN](https://github.com/teamDiveIn/INTRO), Online Study Platform with Pose Estimation-based Learning Concentration Evaluation Technology
   - AI Developer, Developed a real-time, lightweight pose estimation model for web browser.
-- 2021 ROKMND Online Hackathon  - Director of Information and Communication Industry Promotion Agency's Prize
+  - First place among 39 qualifying teams from universities across the country
+- **Director of Information and Communication Industry Promotion Agency's Prize** - 2021 ROKMND Online Hackathon
   - [POOL](https://github.com/skyil7/AI_WEB_POOL_YD), NLP-based career management SNS
   - AI Developer, Developed a kogpt-based text-generation model and a KoBART-based text summary model.
-- 2021 Sejong University Startup Idea Contest - Grand Prize
-- 2020 Sejong University SW/AI Hackathon - Grand Prize
-- 2019 TOPCIT Award - Awarded by President of Sejong University
+- 2023 Sejong University Capstone Work Competition - **Grand Prize**
+- 2021 Sejong University Startup Idea Contest - **Grand Prize**
+- 2020 Sejong University SW/AI Hackathon - **Grand Prize**
+- 2019 TOPCIT Award - Awarded by **President of Sejong University**
 
 ## 😎 Experiences
 ### Open Source
