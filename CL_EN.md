@@ -10,7 +10,9 @@
 - Software Engineer at ISMG, Republic of Korea Air Force (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 Interest
-- Computer Vision, Video Retrieval, Generative Models, Lightweight DL, X-AI
+- Computer Vision
+- Video Retrieval
+- Multi-Modal Joint Embedding
 - Software Education
 
 ## 🎖️ Honors
@@ -49,3 +51,4 @@
 
 ## ✉️ Contact
 - giopaik@naver.com
+- giopaik@rcv.sejong.ac.kr

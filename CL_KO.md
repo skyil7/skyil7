@@ -10,7 +10,9 @@
 - 대한민국 공군 정보체계관리단 체계개발대, 소프트웨어 개발병 (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 관심영역
-- Computer Vision, Video Retrieval, Generative Models, Multi-Modal
+- Computer Vision
+- Video Retrieval
+- Multi-Modal Joint Embedding
 - Software Education
 
 ## 🎖️ 주요 수상경력
@@ -49,3 +51,4 @@
 
 ## ✉️ 연락처
 - giopaik@naver.com
+- giopaik@rcv.sejong.ac.kr

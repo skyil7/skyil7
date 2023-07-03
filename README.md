@@ -8,11 +8,11 @@
 
 ## 👨‍✈️ Career
 - Undergraduate Research Student at [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/) (2023.03.06 ~ )
-- Software Engineer at ISMG, Republic of Korea Air Force (2021.03.15. ~ 2022.12.14.)
+- Software Specialist at ISMG, Republic of Korea Air Force (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 Interest
-**Main**: Computer Vision / Generative Models / Lightweight DL / Software Education   
-**Side**: Game / Music / Movie
+**Main**: Video Retrieval / Multi-Modal Joint Embedding / Software Education   
+**Side**: Movie / Music / Game
 
 ## 👋 Contact
 <div align=center>
@@ -26,5 +26,5 @@
 [![Mail Badge](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giopaik@naver.com)](mailto:giopaik@naver.com)
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskyil7%2Fhit-counter&count_bg=%233DBFC8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br />
-  Want more Information about me? Please Click [Here](https://github.com/skyil7/skyil7/blob/master/CL_EN.md)
+  Want more information about me? Please Click [Here](https://github.com/skyil7/skyil7/blob/master/CL_EN.md)
 </div>
