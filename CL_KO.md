@@ -6,7 +6,7 @@
 - 양영디지털고등학교 소프트웨어 개발과 (2016 ~ 2019)
 
 ## 👨‍✈️ 경력
-- [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/), 학부연구생 (2023.03.06 ~ )
+- [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/), 학부연구생 (2023.01.03 ~ )
 - 대한민국 공군 정보체계관리단 체계개발대, 소프트웨어 개발병 (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 관심영역
@@ -23,6 +23,8 @@
 - **정보통신산업진흥원장상** - 2021 군장병 온라인 해커톤
   - [POOL](https://github.com/skyil7/AI_WEB_POOL_YD), NLP 기반 커리어 관리 SNS
   - AI Developer, 입력 텍스트의 뒷 부분을 생성하는 kogpt 기반 DL 모델, KoBART 기반 텍스트 요약 모델 개발
+- **국방과학연구소장** - 2022 후반기 합동참모본부 신개념 무기체계 공모전 혁신기술상
+  - 군집드론 기반 방공·요격체계 아이디어 제안
 - 2023 세종대학교 창의설계경진대회(캡스톤) - 대상
 - 2021 세종대학교 창업 아이디어 경진대회 - 대상
 - 2020 세종대학교 SW/AI 해커톤 - 대상

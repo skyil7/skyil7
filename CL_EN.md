@@ -6,8 +6,8 @@
 - High School Diploma in Dept. of Software Development, YangYoung Digital High School (2016 ~ 2019)
 
 ## 👨‍✈️ Career
-- Undergraduate Research Student at [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/) (2023.03.06 ~ )
-- Software Engineer at ISMG, Republic of Korea Air Force (2021.03.15. ~ 2022.12.14.)
+- Undergraduate Research Student at [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/) (2023.01.03 ~ )
+- Software Specialist at ISMG, Republic of Korea Air Force (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 Interest
 - Computer Vision
@@ -23,6 +23,8 @@
 - **Director of Information and Communication Industry Promotion Agency's Prize** - 2021 ROKMND Online Hackathon
   - [POOL](https://github.com/skyil7/AI_WEB_POOL_YD), NLP-based career management SNS
   - AI Developer, Developed a kogpt-based text-generation model and a KoBART-based text summary model.
+- **Awarded by President of Agency for Defense Development** - 2022 Future Weapon & Defense System Idea Contest by Republic of Korea Joint Chiefs of Staff
+  - Proposed new concept air defense system using swarm drone.
 - 2023 Sejong University Capstone Work Competition - **Grand Prize**
 - 2021 Sejong University Startup Idea Contest - **Grand Prize**
 - 2020 Sejong University SW/AI Hackathon - **Grand Prize**
