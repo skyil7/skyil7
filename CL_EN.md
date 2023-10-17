@@ -2,7 +2,7 @@
 > 한국어로 보고 싶으시다면, [여기](https://github.com/skyil7/skyil7/blob/master/CL_KO.md)를 눌러주세요.
 
 ## 🎓 Education
-- BS in Dept. of Computer Science, Sejong University (2019 ~ )
+- B.S. in Dept. of Computer Science, Sejong University (2019 ~ )
 - High School Diploma in Dept. of Software Development, YangYoung Digital High School (2016 ~ 2019)
 
 ## 👨‍✈️ Career
@@ -11,8 +11,8 @@
 
 ## 🔥 Interest
 - Computer Vision
-- Video Retrieval
-- Multi-Modal Joint Embedding
+- Video Representation Learning
+- Multi-Modal
 - Software Education
 
 ## 🎖️ Honors
@@ -28,7 +28,7 @@
 - 2023 Sejong University Capstone Work Competition - **Grand Prize**
 - 2021 Sejong University Startup Idea Contest - **Grand Prize**
 - 2020 Sejong University SW/AI Hackathon - **Grand Prize**
-- 2019 TOPCIT Award - Awarded by **President of Sejong University**
+- 2019 TOPCIT - Awarded by **President of Sejong University**
 
 ## 😎 Experiences
 ### Open Source

@@ -6,12 +6,12 @@
 - BS in Dept. of Computer Science, Sejong University (2019 ~ )
 - High School Diploma in Dept. of Software Development, YangYoung Digital High School (2016 ~ 2019)
 
-## 👨‍✈️ Career
+## 🛰 Career
 - Undergraduate Research Student at [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/) (2023.01.03. ~ )
 - Software Specialist at ISMG, Republic of Korea Air Force (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 Interest
-**Main**: Video Retrieval / Multi-Modal Joint Embedding / Software Education   
+**Main**: Video Representation Learning / Multi-Modal / Software Education   
 **Side**: Movie / Music / Game
 
 ## 👋 Contact

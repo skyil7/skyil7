@@ -5,14 +5,13 @@
 - 세종대학교 컴퓨터공학과 (2019 ~ )
 - 양영디지털고등학교 소프트웨어 개발과 (2016 ~ 2019)
 
-## 👨‍✈️ 경력
+## 🛰 경력
 - [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/), 학부연구생 (2023.01.03 ~ )
 - 대한민국 공군 정보체계관리단 체계개발대, 소프트웨어 개발병 (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 관심영역
-- Computer Vision
-- Video Retrieval
-- Multi-Modal Joint Embedding
+- Video Representation Learning
+- Multi-Modal
 - Software Education
 
 ## 🎖️ 주요 수상경력
