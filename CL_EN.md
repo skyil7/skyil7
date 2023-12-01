@@ -26,7 +26,7 @@
 - **Awarded by President of Agency for Defense Development** - 2022 Future Weapon & Defense System Idea Contest by Republic of Korea Joint Chiefs of Staff
   - Proposed new concept air defense system using swarm drone.
 - 2023 Sejong University Capstone Work Competition - **Grand Prize**
-- 2023 Sejong University AI Challenge - **Silver Prize** (2/198)
+- 2023 Sejong University AI Challenge - **Silver Prize** (2/196)
 - 2021 Sejong University Startup Idea Contest - **Grand Prize**
 - 2020 Sejong University SW/AI Hackathon - **Grand Prize**
 - 2019 TOPCIT - Awarded by **President of Sejong University**
