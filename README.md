@@ -11,8 +11,8 @@
 - Software Specialist at ISMG, Republic of Korea Air Force (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 Interest
-**Main**: Video Representation Learning / Multi-Modal / Software Education   
-**Side**: Movie / Music / Game
+**Main**: Video Understanding / Multi-Modal / Data-Efficient Deep Learning   
+**Side**: Movie / Bouldering / Game
 
 ## 👋 Contact
 <div align=center>

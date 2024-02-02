@@ -10,9 +10,9 @@
 - 대한민국 공군 정보체계관리단 체계개발대, 소프트웨어 개발병 (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 관심영역
-- Video Representation Learning
-- Multi-Modal
-- Software Education
+- Video Understanding
+- Multi-Modal Representation Learning
+- Data-Efficient Deep Learning
 
 ## 🎖️ 주요 수상경력
 - **과학기술정보통신부장관상** - 2021 SW중심대학 공동해커톤
@@ -21,7 +21,7 @@
   - 전국 39개 SW 중심대학 해커톤을 거쳐 선발된 인원 중 1등
 - **정보통신산업진흥원장상** - 2021 군장병 온라인 해커톤
   - [POOL](https://github.com/skyil7/AI_WEB_POOL_YD), NLP 기반 커리어 관리 SNS
-  - AI Developer, 입력 텍스트의 뒷 부분을 생성하는 kogpt 기반 DL 모델, KoBART 기반 텍스트 요약 모델 개발
+  - AI Developer, 입력 텍스트의 뒷 부분을 생성하는 kogpt 기반 DL 모델, KoBART 기반 텍스트 요약 모델 활용
 - **국방과학연구소장** - 2022 후반기 합동참모본부 신개념 무기체계 아이디어 공모전 혁신기술상
   - 군집드론 기반 방공·요격체계 아이디어 제안
 - 2023 세종대학교 창의설계경진대회(캡스톤) - 대상

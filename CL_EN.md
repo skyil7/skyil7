@@ -5,15 +5,14 @@
 - B.S. in Dept. of Computer Science, Sejong University (2019 ~ )
 - High School Diploma in Dept. of Software Development, YangYoung Digital High School (2016 ~ 2019)
 
-## 👨‍✈️ Career
+## 🛰 Career
 - Undergraduate Research Student at [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/) (2023.01.03 ~ )
 - Software Specialist at ISMG, Republic of Korea Air Force (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 Interest
-- Computer Vision
-- Video Representation Learning
-- Multi-Modal
-- Software Education
+- Video Understanding
+- Multi-Modal Representation Learning
+- Data-Efficient Deep Learning
 
 ## 🎖️ Honors
 - **Minister of Science and ICT's Prize** - 2021 SW oriented University Joint Hackathon
@@ -22,7 +21,7 @@
   - First place among 39 qualifying teams from universities across the country
 - **Director of Information and Communication Industry Promotion Agency's Prize** - 2021 ROKMND Online Hackathon
   - [POOL](https://github.com/skyil7/AI_WEB_POOL_YD), NLP-based career management SNS
-  - AI Developer, Developed a kogpt-based text-generation model and a KoBART-based text summary model.
+  - AI Developer, Utilized a kogpt-based text-generation model and a KoBART-based text summary model.
 - **Awarded by President of Agency for Defense Development** - 2022 Future Weapon & Defense System Idea Contest by Republic of Korea Joint Chiefs of Staff
   - Proposed new concept air defense system using swarm drone.
 - 2023 Sejong University Capstone Work Competition - **Grand Prize**
@@ -42,7 +41,7 @@
 - [Dive into Deep Learning with 제주코딩베이스캠프](https://paullabkorea.medium.com/%EB%B0%B0%EC%9B%8C%EC%84%9C-%EB%82%A8-%EC%A3%BC%EB%8B%A4-12%EC%9D%BC%EC%9D%98-%EC%97%AC%EC%A0%95-%EB%98%90-%EA%B7%B8-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EC%97%AC%EC%A0%95-f872a4e060e2)
   - Instructor, 2-hour deep learning introduction lecture. More than 100 people participated online (January 2021)
 - [Deep Learning for Everyone](https://github.com/sejonginterface/Study_AI)
-  - Instructor, Hosted by Sejong University's programming club **Interface**. About 10 people participated online (Summer 2020)
+  - Instructor, Hosted by Sejong University's programming club. About 10 people participated online (Summer 2020)
 
 ### Presentation
 - [PR-GIO: 1 Week 1 Paper Project](https://github.com/skyil7/paperReview)
