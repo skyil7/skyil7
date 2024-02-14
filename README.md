@@ -1,5 +1,5 @@
 # Gio Paik<sub> @skyil7</sub>
-- Software Developer (2016 ~ )
+- Writing Code Since 2016
 - Deep Learning & Tech Lover Since 2015
 
 ## 🎓 Education
@@ -11,7 +11,7 @@
 - Software Specialist at ISMG, Republic of Korea Air Force (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 Interest
-**Main**: Video Understanding / Multi-Modal / Data-Efficient Deep Learning   
+**Main**: Video Understanding / Multi-Modal / Efficient Deep Learning   
 **Side**: Movie / Bouldering / Game
 
 ## 👋 Contact
