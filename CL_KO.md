@@ -31,6 +31,7 @@
   - [게섯거라!](https://www.youtube.com/watch?v=XPrFTd9aBik), 딥러닝 기반 태풍 경로 예측 및 조기 경보 서비스
   - AI Researcher, 태풍 경로 예측을 위한 시간당 특성 변화량 분석 신경망(TFDAN) 개발
   - TFDAN은 태풍의 향후 진로를 평균 57km의 오차로 예측 가능(6시간 기준). ([소논문](https://github.com/skyil7/skyil7/blob/master/misc/%EC%8B%9C%EA%B0%84%EB%8B%B9%20%ED%8A%B9%EC%84%B1%20%EB%B3%80%ED%99%94%EB%9F%89%20%EB%B6%84%EC%84%9D%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%9D%84%20%ED%86%B5%ED%95%9C%20%ED%83%9C%ED%92%8D%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8_20230609.pdf)) 
+- 2024-1 성적우수장학금 - 컴퓨터공학과 3등
 - 2023 세종대학교 AI챌린지 - 은상 (2/196)
 - 2021 세종대학교 창업 아이디어 경진대회 - 대상
 - 2020 세종대학교 SW/AI 해커톤 - 대상
