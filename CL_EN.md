@@ -31,7 +31,7 @@
   - [Stop Right There!](https://www.youtube.com/watch?v=XPrFTd9aBik), Typhoon Track Prediction Service
   - AI Researcher, Proposed Temporal Feature Difference Analysis Network (TFDAN) to predict Typhoon.
   - TFDAN can predict the typhoon's track within an average error range of 57km. ([paper](https://github.com/skyil7/skyil7/blob/master/misc/%EC%8B%9C%EA%B0%84%EB%8B%B9%20%ED%8A%B9%EC%84%B1%20%EB%B3%80%ED%99%94%EB%9F%89%20%EB%B6%84%EC%84%9D%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%9D%84%20%ED%86%B5%ED%95%9C%20%ED%83%9C%ED%92%8D%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8_20230609.pdf))
-- 2024.Spring Academic Excellence Scholarship - **Top 3** in department
+- **Academic Excellence Scholarship** - **Top 3** in department (2023.Fall)
 - 2023 Sejong University AI Challenge - **Silver Prize** (2/196)
 - 2021 Sejong University Startup Idea Contest - **Grand Prize**
 - 2020 Sejong University SW/AI Hackathon - **Grand Prize**
