@@ -9,13 +9,14 @@
 - [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/), 학부연구생 (2023.01.03 ~ )
 - 대한민국 공군 정보체계관리단 체계개발대, 소프트웨어 개발병 (2021.03.15. ~ 2022.12.14.)
 
-## 📃 논문
-- coming soon
-
 ## 🔥 관심분야
 - Video Understanding
 - Multi-Modal Representation Learning
 - Efficient Deep Learning
+
+## 📃 논문
+- **Probabilistic Embedding with CLIP Representation for Weakly Supervised Temporal Action Localization**, Under Review
+	- Guentaek Lim, Hyunwoo Kim, **Gio Paik**, Joonsoo Kim and Yukyung Choi
 
 ## 🎖️ 주요 수상경력
 - **과학기술정보통신부장관상** - 2021 SW중심대학 공동해커톤
