@@ -6,17 +6,13 @@
 - 양영디지털고등학교 소프트웨어 개발과 (2016 ~ 2019)
 
 ## 🛰 경력
-- [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/), 학부연구생 (2023.01.03 ~ )
+- [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/), 학부연구생 (2023.01.03 ~ 2024.04.05.)
 - 대한민국 공군 정보체계관리단 체계개발대, 소프트웨어 개발병 (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 관심분야
 - Video Understanding
 - Multi-Modal Representation Learning
 - Efficient Deep Learning
-
-## 📃 논문
-- **Probabilistic Embedding with CLIP Representation for Weakly Supervised Temporal Action Localization**, Under Review
-	- Guentaek Lim, Hyunwoo Kim, **Gio Paik**, Joonsoo Kim and Yukyung Choi
 
 ## 🎖️ 주요 수상경력
 - **과학기술정보통신부장관상** - 2021 SW중심대학 공동해커톤
@@ -50,6 +46,11 @@
   - Instructor, 2시간 분량의 딥러닝 개론 강의. 온라인으로 100여명 참여 (2021년 1월)
 - [나만 알기 아쉬운 딥러닝](https://github.com/sejonginterface/Study_AI)
   - Instructor, 세종대학교 프로그래밍 동아리 인터페이스에서 진행. 온라인으로 10여명 참여 (2020년 여름)
+  
+### 조교
+- 기계학습 (2023년 1학기)
+- 인공지능 (2023년 2학기)
+- 고급프로그래밍(파이썬) (2020년 1학기, 2학기)
 
 ### 개인 발표
 - [PR-GIO 1주 1논문 프로젝트](https://github.com/skyil7/paperReview)
@@ -61,4 +62,4 @@
 
 ## ✉️ 연락처
 - giopaik@naver.com
-- giopaik@rcv.sejong.ac.kr
+- giopaik0@gmail.com

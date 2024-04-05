@@ -6,17 +6,13 @@
 - High School Diploma in Dept. of Software Development, YangYoung Digital High School (2016 ~ 2019)
 
 ## 🛰 Career
-- Undergraduate Research Student at [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/) (2023.01.03 ~ )
+- Undergraduate Research Student at [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/) (2023.01.03 ~ 2024.04.05.)
 - Software Specialist at ISMG, Republic of Korea Air Force HQ (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 Research Interest
 - Video Understanding
 - Multi-Modal Representation Learning
 - Efficient Deep Learning
-
-## 📃 Publications
-- **Probabilistic Embedding with CLIP Representation for Weakly Supervised Temporal Action Localization**, Under Review
-	- Guentaek Lim, Hyunwoo Kim, **Gio Paik**, Joonsoo Kim and Yukyung Choi
 
 ## 🎖️ Honors
 - **Minister of Science and ICT's Prize** - 2021 SW oriented University Joint Hackathon
@@ -51,6 +47,11 @@
 - [Deep Learning for Everyone](https://github.com/sejonginterface/Study_AI)
   - Instructor, Hosted by Sejong University's programming club. About 10 people participated online (Summer 2020)
 
+### TA
+- Machine Learning (2023.Spring)
+- Artificial Intelligence (2023.Fall)
+- Advanced Programming (Python) (2020.Spring, 2020.Fall)
+
 ### Presentation
 - [PR-GIO: 1 Week 1 Paper Project](https://github.com/skyil7/paperReview)
   - Presentor, Summer 2020
@@ -60,5 +61,5 @@
    - 6th ROKAF ISMG/KATUSA IT Conference, MILICON, Early 2023
 
 ## ✉️ Contact
+- giopaik0@gmail.com
 - giopaik@naver.com
-- giopaik@rcv.sejong.ac.kr
