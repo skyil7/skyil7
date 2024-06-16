@@ -2,7 +2,7 @@
 > 한국어로 보고 싶으시다면, [여기](https://github.com/skyil7/skyil7/blob/master/CL_KO.md)를 눌러주세요.
 
 ## 🎓 Education
-- B.S. in Dept. of Computer Science, Sejong University (2019 ~ )
+- B.S. in Dept. of Computer Science, Sejong University (2019.03 ~ 2025.02)
 - High School Diploma in Dept. of Software Development, YangYoung Digital High School (2016 ~ 2019)
 
 ## 🛰 Career
@@ -10,8 +10,8 @@
 - Software Specialist at ISMG, Republic of Korea Air Force HQ (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 Research Interest
-- Video Understanding
-- Multi-Modal Representation Learning
+- Multi-Modal
+- Self Supervised Learning for Unified Representation
 - Efficient Deep Learning
 
 ## 🎖️ Honors

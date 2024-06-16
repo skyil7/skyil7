@@ -3,7 +3,7 @@
 - Deep Learning & Tech Lover Since 2015
 
 ## 🎓 Education
-- B.S. in Dept. of Computer Science, Sejong University (2019 ~ )
+- B.S. in Dept. of Computer Science, Sejong University (2019.03 ~ 2025.02)
 - High School Diploma in Dept. of Software Development, YangYoung Digital High School (2016 ~ 2019)
 
 ## 🛰 Career
@@ -11,7 +11,7 @@
 - Software Specialist at ISMG, Republic of Korea Air Force (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 Interest
-**Main**: Video Understanding / Multi-Modal / Efficient Deep Learning   
+**Main**: Multi-Modal / Self Supervised Learning / Efficient Deep Learning   
 **Side**: Movie / Bouldering / Game
 
 ## 👋 Contact

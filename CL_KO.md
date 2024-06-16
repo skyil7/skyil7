@@ -2,7 +2,7 @@
 > If you want English Cover Letter, Click [Here](https://github.com/skyil7/skyil7/blob/master/CL_EN.md)
 
 ## 🎓 학력
-- 세종대학교 컴퓨터공학과 (2019 ~ )
+- 세종대학교 컴퓨터공학과 (2019.03 ~ 2025.02)
 - 양영디지털고등학교 소프트웨어 개발과 (2016 ~ 2019)
 
 ## 🛰 경력
@@ -10,8 +10,8 @@
 - 대한민국 공군 정보체계관리단 체계개발대, 소프트웨어 개발병 (2021.03.15. ~ 2022.12.14.)
 
 ## 🔥 관심분야
-- Video Understanding
-- Multi-Modal Representation Learning
+- Multi-Modal
+- Self Supervised Learning for Unified Representation
 - Efficient Deep Learning
 
 ## 🎖️ 주요 수상경력
@@ -57,6 +57,8 @@
   - Presentor, 2020년 여름방학
 - 개발자를 위한 셀프 브랜딩
   - 제4회 계룡전산한마당 (공군 정보체계관리단 내부 컨퍼런스), 2021년 초
+- Code-Server를 이용한 사지방 개발환경
+  - 제5회 계룡전산한마당 (공군 정보체계관리단 내부 컨퍼런스), 2021년 중순
 - 회고와 계획으로 빠르게 성장하기
   - 제6회 계룡전산한마당, MILICON (공군 정보체계관리단 / 육군 카투사 내부 컨퍼런스), 2023년 초
 
