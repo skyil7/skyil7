@@ -1,17 +1,18 @@
 # 백지오 [Paik Gio]
 > If you want English Cover Letter, Click [Here](https://github.com/skyil7/skyil7/blob/master/CL_EN.md)
 
+## 🛰 경력
+- NAVER CLOUD, Vision Understanding팀, 인턴 (2024.07.15. ~ )
+- [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/), 학부연구생 (2023.01.03 ~ 2024.04.05.)
+- 대한민국 공군 정보체계관리단 체계개발대, 소프트웨어 개발병 (2021.03.15. ~ 2022.12.14.)
+
 ## 🎓 학력
 - 세종대학교 컴퓨터공학과 (2019.03 ~ 2025.02)
 - 양영디지털고등학교 소프트웨어 개발과 (2016 ~ 2019)
 
-## 🛰 경력
-- [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/), 학부연구생 (2023.01.03 ~ 2024.04.05.)
-- 대한민국 공군 정보체계관리단 체계개발대, 소프트웨어 개발병 (2021.03.15. ~ 2022.12.14.)
-
 ## 🔥 관심분야
-- Multi-Modal
-- Self Supervised Learning for Unified Representation
+- Multi-Modal Understanding
+- Feature Alignment
 - Efficient Deep Learning
 
 ## 🎖️ 주요 수상경력

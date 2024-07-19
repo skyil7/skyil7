@@ -1,17 +1,18 @@
 # Gio Paik
 > 한국어로 보고 싶으시다면, [여기](https://github.com/skyil7/skyil7/blob/master/CL_KO.md)를 눌러주세요.
 
+## 🛰 Career
+- Research Engineer Intern at Vision Understanding Team, NAVER CLOUD (2024.07.15. ~ )
+- Undergraduate Research Student at [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/) (2023.01.03 ~ 2024.04.05.)
+- Software Specialist at ISMG, Republic of Korea Air Force HQ (2021.03.15. ~ 2022.12.14.)
+
 ## 🎓 Education
 - B.S. in Dept. of Computer Science, Sejong University (2019.03 ~ 2025.02)
 - High School Diploma in Dept. of Software Development, YangYoung Digital High School (2016 ~ 2019)
 
-## 🛰 Career
-- Undergraduate Research Student at [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/) (2023.01.03 ~ 2024.04.05.)
-- Software Specialist at ISMG, Republic of Korea Air Force HQ (2021.03.15. ~ 2022.12.14.)
-
 ## 🔥 Research Interest
-- Multi-Modal
-- Self Supervised Learning for Unified Representation
+- Multi-Modal Understanding
+- Feature Alignment
 - Efficient Deep Learning
 
 ## 🎖️ Honors
