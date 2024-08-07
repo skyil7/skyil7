@@ -2,7 +2,7 @@
 > 한국어로 보고 싶으시다면, [여기](https://github.com/skyil7/skyil7/blob/master/CL_KO.md)를 눌러주세요.
 
 ## 🛰 Career
-- Research Engineer Intern at Vision Understanding Team, NAVER CLOUD (2024.07.15. ~ )
+- Research Intern at Vision Understanding Team, NAVER CLOUD (2024.07.15. ~ )
 - Undergraduate Research Student at [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/) (2023.01.03 ~ 2024.04.05.)
 - Software Specialist at ISMG, Republic of Korea Air Force HQ (2021.03.15. ~ 2022.12.14.)
 
