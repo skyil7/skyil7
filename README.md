@@ -12,7 +12,7 @@
 - High School Diploma in Dept. of Software Development, YangYoung Digital High School (2016 ~ 2019)
 
 ## 🔥 Interest
-**Main**: Multi-Modal Understanding / Feature Alignment / Efficient Deep Learning   
+**Main**: Multi-Modal Understanding / Information Retrieval / Efficient Deep Learning   
 **Side**: Movie / Bouldering / Game
 
 ## 👋 Contact
