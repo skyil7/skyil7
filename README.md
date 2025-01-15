@@ -3,17 +3,17 @@
 - Deep Learning & Tech Lover Since 2015
 
 ## 🛰 Career
-- Research Intern at Vision Understanding Team, NAVER CLOUD (2024.07.15. ~ )
+- Research Intern at Vision Understanding Team, NAVER CLOUD (2024.07.15. ~ 2025.01.10.)
 - Undergrad. Researcher at [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/) (2023.01.03. ~ 2024.04.05.)
 - Software Specialist at ISMG, Republic of Korea Air Force (2021.03.15. ~ 2022.12.14.)
+
+## 🔥 Interests
+**Main**: Multi-Modal Understanding / Reasoning / Efficient AI    
+**Side**: Video Games / J-POP / Movie
 
 ## 🎓 Education
 - B.S. in Dept. of Computer Science, Sejong University (2019.03 ~ 2025.02)
 - High School Diploma in Dept. of Software Development, YangYoung Digital High School (2016 ~ 2019)
-
-## 🔥 Interest
-**Main**: Multi-Modal Understanding / Information Retrieval / Efficient Deep Learning   
-**Side**: Movie / Bouldering / Game
 
 ## 👋 Contact
 <div align=center>
@@ -27,5 +27,5 @@
 [![Mail Badge](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giopaik@naver.com)](mailto:giopaik@naver.com)
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskyil7%2Fhit-counter&count_bg=%233DBFC8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br />
-  Want more information about me? Please Click [Here](https://github.com/skyil7/skyil7/blob/master/CL_EN.md)
+  [See More](https://github.com/skyil7/skyil7/blob/master/CL_EN.md)
 </div>

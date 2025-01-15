@@ -1,19 +1,19 @@
 # 백지오 [Paik Gio]
 > If you want English Cover Letter, Click [Here](https://github.com/skyil7/skyil7/blob/master/CL_EN.md)
 
+## 🔥 관심분야
+- Multi-Modal Understanding
+- Reasoning
+- Efficient AI
+
 ## 🛰 경력
-- NAVER CLOUD, Vision Understanding팀, 연구 인턴 (2024.07.15. ~ )
+- NAVER CLOUD, Vision Understanding팀, 연구 인턴 (2024.07.15. ~ 2025.01.10)
 - [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/), 학부연구생 (2023.01.03 ~ 2024.04.05.)
 - 대한민국 공군 정보체계관리단 체계개발대, 소프트웨어 개발병 (2021.03.15. ~ 2022.12.14.)
 
 ## 🎓 학력
 - 세종대학교 컴퓨터공학과 (2019.03 ~ 2025.02)
 - 양영디지털고등학교 소프트웨어 개발과 (2016 ~ 2019)
-
-## 🔥 관심분야
-- Multi-Modal Understanding
-- Information Retrieval
-- Efficient Deep Learning
 
 ## 📜 논문
 - 백지오 외 3인, 항만 공컨테이너 재고량 예측을 위한 ARIMA, 머신러닝 적용 연구, 한국정보처리학회 학술대회논문집, 2020
