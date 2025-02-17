@@ -7,6 +7,7 @@
 - Efficient AI
 
 ## 🛰 Career
+- ML Engineer at [Theta One](https://thetaone.co/) (2025.02.17. ~ )
 - Research Intern at Vision Understanding Team, NAVER CLOUD (2024.07.15. ~ 2025.01.10.)
 - Undergraduate Research Student at [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/) (2023.01.03 ~ 2024.04.05.)
 - Software Specialist at ISMG, Republic of Korea Air Force HQ (2021.03.15. ~ 2022.12.14.)

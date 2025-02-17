@@ -7,6 +7,7 @@
 - Efficient AI
 
 ## 🛰 경력
+- [Theta One](https://thetaone.co/), ML 엔지니어 (2025.02.17. ~ )
 - NAVER CLOUD, Vision Understanding팀, 연구 인턴 (2024.07.15. ~ 2025.01.10)
 - [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/), 학부연구생 (2023.01.03 ~ 2024.04.05.)
 - 대한민국 공군 정보체계관리단 체계개발대, 소프트웨어 개발병 (2021.03.15. ~ 2022.12.14.)
