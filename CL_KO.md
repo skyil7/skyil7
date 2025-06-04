@@ -2,9 +2,18 @@
 > If you want English Cover Letter, Click [Here](https://github.com/skyil7/skyil7/blob/master/CL_EN.md)
 
 ## 🔥 관심분야
-- Multi-Modal Understanding
-- Reasoning
-- Efficient AI
+**Main**: Multi-Modal Understanding / Reasoning / Efficient AI    
+**Side**: Video Games / J-POP / Movie
+
+## 📜 논문
+**MMRefine: Unveiling the Obstacles to Robust Refinement in Multimodal Large Language Models**    
+**Gio Paik**, G. Kim and J. Im. *ACL Findings 2025* (To appear)
+
+**Improving Fine-grained Visual Understanding in VLMs through Text-Only Training**    
+D. Choi, G. Son, S. Kim, **Gio Paik**, S. Hong. *AAAI Workshop 2025* ([arxiv](https://arxiv.org/abs/2412.12940))
+
+**항만 공컨테이너 재고량 예측을 위한 ARIMA, 머신러닝 적용 연구**    
+**백지오** 외 3인. *한국정보처리학회 학술대회논문집 2020*
 
 ## 🛰 경력
 - [Theta One](https://thetaone.co/), ML 엔지니어 (2025.02.17. ~ )
@@ -15,9 +24,6 @@
 ## 🎓 학력
 - 세종대학교 컴퓨터공학과 (2019.03 ~ 2025.02)
 - 양영디지털고등학교 소프트웨어 개발과 (2016 ~ 2019)
-
-## 📜 논문
-- 백지오 외 3인, 항만 공컨테이너 재고량 예측을 위한 ARIMA, 머신러닝 적용 연구, 한국정보처리학회 학술대회논문집, 2020
 
 ## 🎖️ 주요 수상경력
 - **성적우수장학금** - 컴퓨터공학과 3등 (2023-2)
@@ -70,5 +76,4 @@
   - 제6회 계룡전산한마당, MILICON (공군 정보체계관리단 / 육군 카투사 내부 컨퍼런스), 2023년 초
 
 ## ✉️ 연락처
-- giopaik@naver.com
 - giopaik0@gmail.com

@@ -6,6 +6,13 @@
 - Reasoning
 - Efficient AI
 
+## 📜 Publication
+**MMRefine: Unveiling the Obstacles to Robust Refinement in Multimodal Large Language Models**    
+**Gio Paik**, G. Kim and J. Im. *ACL Findings 2025* (To appear)
+
+**Improving Fine-grained Visual Understanding in VLMs through Text-Only Training**    
+D. Choi, G. Son, S. Kim, **Gio Paik**, S. Hong. *AAAI Workshop 2025* ([arxiv](https://arxiv.org/abs/2412.12940))
+
 ## 🛰 Career
 - ML Engineer at [Theta One](https://thetaone.co/) (2025.02.17. ~ )
 - Research Intern at Vision Understanding Team, NAVER CLOUD (2024.07.15. ~ 2025.01.10.)
@@ -66,4 +73,3 @@
 
 ## ✉️ Contact
 - giopaik0@gmail.com
-- giopaik@naver.com
