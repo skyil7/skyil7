@@ -8,7 +8,7 @@
 
 ## 📜 Publication
 **MMRefine: Unveiling the Obstacles to Robust Refinement in Multimodal Large Language Models**    
-**Gio Paik**, G. Kim and J. Im. *ACL Findings 2025* (To appear)
+**Gio Paik**, G. Kim and J. Im. *ACL Findings 2025* (To appear) ([arxiv](https://arxiv.org/abs/2506.04688))
 
 **Improving Fine-grained Visual Understanding in VLMs through Text-Only Training**    
 D. Choi, G. Son, S. Kim, **Gio Paik**, S. Hong. *AAAI Workshop 2025* ([arxiv](https://arxiv.org/abs/2412.12940))
