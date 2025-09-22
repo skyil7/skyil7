@@ -3,12 +3,15 @@
 - Deep Learning & Tech Lover Since 2015
 
 ## 🔥 Interests
-**Main**: Multi-Modal Understanding / Reasoning / Efficient AI    
-**Side**: Video Games / J-POP / Movie
+**Main**: Multimodal / Reasoning / Efficient AI    
+**Side**: Specialty Coffee / Video Games / Drum
 
 ## 📜 Publication
+**HiKE: Hierarchical Evaluation Framework for Korean-English Code-Switching Speech Recognition**    
+**Gio Paik** (first and corresponding author), Y. Kim, S. Lee, S. Ahn†, and C. Kim†, Under Review (preprint will be available soon)
+
 **MMRefine: Unveiling the Obstacles to Robust Refinement in Multimodal Large Language Models**    
-**Gio Paik**, G. Kim and J. Im. *ACL Findings 2025* (To appear) ([arxiv](https://arxiv.org/abs/2506.04688))
+**Gio Paik**, G. Kim and J. Im. *ACL Findings 2025* ([arxiv](https://arxiv.org/abs/2506.04688))
 
 **Improving Fine-grained Visual Understanding in VLMs through Text-Only Training**    
 D. Choi, G. Son, S. Kim, **Gio Paik**, S. Hong. *AAAI Workshop 2025* ([arxiv](https://arxiv.org/abs/2412.12940))
