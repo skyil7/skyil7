@@ -2,24 +2,27 @@
 > If you want English Cover Letter, Click [Here](https://github.com/skyil7/skyil7/blob/master/CL_EN.md)
 
 ## 🔥 관심분야
-**Main**: Multi-Modal Understanding / Reasoning / Efficient AI    
-**Side**: Video Games / J-POP / Movie
+**Main**: Multimodal / Reasoning / Efficient AI    
+**Side**: Specialty Coffee / Video Games / Drum
 
 ## 📜 논문
+**HiKE: Hierarchical Evaluation Framework for Korean-English Code-Switching Speech Recognition**    
+**G. Paik** (first and corresponding author), Y. Kim, S. Lee, S. Ahn†, and C. Kim†, *Under Review* (preprint will be available soon)
+
 **MMRefine: Unveiling the Obstacles to Robust Refinement in Multimodal Large Language Models**    
-**Gio Paik**, G. Kim and J. Im. *ACL Findings 2025* (To appear) ([arxiv](https://arxiv.org/abs/2506.04688))
+**G. Paik**, G. Kim and J. Im. *ACL Findings 2025* ([arxiv](https://arxiv.org/abs/2506.04688))
 
 **Improving Fine-grained Visual Understanding in VLMs through Text-Only Training**    
-D. Choi, G. Son, S. Kim, **Gio Paik**, S. Hong. *AAAI Workshop 2025* ([arxiv](https://arxiv.org/abs/2412.12940))
+D. Choi, G. Son, S. Kim, **G. Paik**, S. Hong. *AAAI Workshop 2025* ([arxiv](https://arxiv.org/abs/2412.12940))
 
 **항만 공컨테이너 재고량 예측을 위한 ARIMA, 머신러닝 적용 연구**    
 **백지오** 외 3인. *한국정보처리학회 학술대회논문집 2020*
 
 ## 🛰 경력
-- [Theta One](https://thetaone.co/), ML 엔지니어 (2025.02.17. ~ )
-- NAVER CLOUD, Vision Understanding팀, 연구 인턴 (2024.07.15. ~ 2025.01.10)
-- [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/), 학부연구생 (2023.01.03 ~ 2024.04.05.)
-- 대한민국 공군 정보체계관리단 체계개발대, 소프트웨어 개발병 (2021.03.15. ~ 2022.12.14.)
+- [Theta One](https://thetaone-ai.com/), ML 엔지니어 (2025.02.17 ~ )
+- [NAVER CLOUD](https://www.navercloudcorp.com/), Vision Understanding팀, 연구 인턴 (2024.07.15 ~ 2025.01.10)
+- [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/), 학부연구생 (2023.01.03 ~ 2024.04.05)
+- 대한민국 공군 정보체계관리단 체계개발대, 소프트웨어 개발병 (2021.03.15 ~ 2022.12.14)
 
 ## 🎓 학력
 - 세종대학교 컴퓨터공학과 (2019.03 ~ 2025.02)

@@ -1,23 +1,25 @@
 # Gio Paik
 > 한국어로 보고 싶으시다면, [여기](https://github.com/skyil7/skyil7/blob/master/CL_KO.md)를 눌러주세요.
 
-## 🔥 Research Interest
-- Multi-Modal Understanding
-- Reasoning
-- Efficient AI
+## 🔥 Interests
+**Main**: Multimodal / Reasoning / Efficient AI    
+**Side**: Specialty Coffee / Video Games / Drum
 
 ## 📜 Publication
+**HiKE: Hierarchical Evaluation Framework for Korean-English Code-Switching Speech Recognition**    
+**G. Paik** (first and corresponding author), Y. Kim, S. Lee, S. Ahn†, and C. Kim†, *Under Review* (preprint will be available soon)
+
 **MMRefine: Unveiling the Obstacles to Robust Refinement in Multimodal Large Language Models**    
-**Gio Paik**, G. Kim and J. Im. *ACL Findings 2025* (To appear) ([arxiv](https://arxiv.org/abs/2506.04688))
+**G. Paik**, G. Kim and J. Im. *ACL Findings 2025* ([arxiv](https://arxiv.org/abs/2506.04688))
 
 **Improving Fine-grained Visual Understanding in VLMs through Text-Only Training**    
-D. Choi, G. Son, S. Kim, **Gio Paik**, S. Hong. *AAAI Workshop 2025* ([arxiv](https://arxiv.org/abs/2412.12940))
+D. Choi, G. Son, S. Kim, **G. Paik**, S. Hong. *AAAI Workshop 2025* ([arxiv](https://arxiv.org/abs/2412.12940))
 
 ## 🛰 Career
-- ML Engineer at [Theta One](https://thetaone.co/) (2025.02.17. ~ )
-- Research Intern at Vision Understanding Team, NAVER CLOUD (2024.07.15. ~ 2025.01.10.)
-- Undergraduate Research Student at [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/) (2023.01.03 ~ 2024.04.05.)
-- Software Specialist at ISMG, Republic of Korea Air Force HQ (2021.03.15. ~ 2022.12.14.)
+- ML Engineer at [Theta One](https://thetaone-ai.com/) (2025.02.17 ~ )
+- Research Intern at Vision Understanding Team, [NAVER CLOUD](https://www.navercloudcorp.com/) (2024.07.15 ~ 2025.01.10)
+- Undergraduate Research Student at [Sejong Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/) (2023.01.03 ~ 2024.04.05)
+- Software Specialist at [ISMG](https://en.namu.wiki/w/%EA%B3%B5%EA%B5%B0%EC%A7%80%EB%8A%A5%EC%A0%95%EB%B3%B4%EC%B2%B4%EA%B3%84%EA%B4%80%EB%A6%AC%EB%8B%A8), Republic of Korea Air Force HQ (2021.03.15 ~ 2022.12.14)
 
 ## 🎓 Education
 - B.S. in Dept. of Computer Science, Sejong University (2019.03 ~ 2025.02)
