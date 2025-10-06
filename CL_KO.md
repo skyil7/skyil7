@@ -10,13 +10,15 @@
 **G. Paik** (first and corresponding author), Y. Kim, S. Lee, S. Ahn†, and C. Kim†, *Under Review* ([arxiv](https://arxiv.org/abs/2509.24613))
 
 **MMRefine: Unveiling the Obstacles to Robust Refinement in Multimodal Large Language Models**    
-**G. Paik**, G. Kim and J. Im. *ACL Findings 2025* ([arxiv](https://arxiv.org/abs/2506.04688))
+**G. Paik**, G. Kim and J. Im\*, *ACL Findings 2025* ([arxiv](https://arxiv.org/abs/2506.04688))
 
 **Improving Fine-grained Visual Understanding in VLMs through Text-Only Training**    
-D. Choi, G. Son, S. Kim, **G. Paik**, S. Hong. *AAAI Workshop 2025* ([arxiv](https://arxiv.org/abs/2412.12940))
+D. Choi, G. Son, S. Kim, **G. Paik**, and S. Hong, *AAAI Workshop 2025* ([arxiv](https://arxiv.org/abs/2412.12940))
 
 **항만 공컨테이너 재고량 예측을 위한 ARIMA, 머신러닝 적용 연구**    
 **백지오** 외 3인. *한국정보처리학회 학술대회논문집 2020*
+
+(\* Corresponding Author, † Equal Contribution)
 
 ## 🛰 경력
 - [Theta One](https://thetaone-ai.com/), ML 엔지니어 (2025.02.17 ~ )

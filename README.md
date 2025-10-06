@@ -8,13 +8,15 @@
 
 ## 📜 Publication
 **HiKE: Hierarchical Evaluation Framework for Korean-English Code-Switching Speech Recognition**    
-**G. Paik** (first and corresponding author), Y. Kim, S. Lee, S. Ahn†, and C. Kim†, *Under Review* ([arxiv](https://arxiv.org/abs/2509.24613))
+**G. Paik\***, Y. Kim, S. Lee, S. Ahn†, and C. Kim†, *Under Review* ([arxiv](https://arxiv.org/abs/2509.24613))
 
 **MMRefine: Unveiling the Obstacles to Robust Refinement in Multimodal Large Language Models**    
-**G. Paik**, G. Kim and J. Im. *ACL Findings 2025* ([arxiv](https://arxiv.org/abs/2506.04688))
+**G. Paik**, G. Kim and J. Im\*, *ACL Findings 2025* ([arxiv](https://arxiv.org/abs/2506.04688))
 
 **Improving Fine-grained Visual Understanding in VLMs through Text-Only Training**    
-D. Choi, G. Son, S. Kim, **G. Paik**, S. Hong. *AAAI Workshop 2025* ([arxiv](https://arxiv.org/abs/2412.12940))
+D. Choi, G. Son, S. Kim, **G. Paik**, and S. Hong, *AAAI Workshop 2025* ([arxiv](https://arxiv.org/abs/2412.12940))
+
+(\* Corresponding Author, † Equal Contribution)
 
 ## 🛰 Career
 - ML Engineer at [Theta One](https://thetaone-ai.com/) (2025.02.17 ~ )
