@@ -8,7 +8,7 @@
 
 ## 📜 Publication
 **HiKE: Hierarchical Evaluation Framework for Korean-English Code-Switching Speech Recognition**    
-**G. Paik\***, Y. Kim, S. Lee, S. Ahn†, and C. Kim†, *Under Review* ([arxiv](https://arxiv.org/abs/2509.24613))
+**G. Paik\***, Y. Kim, S. Lee, S. Ahn†, and C. Kim†, *EACL 2026* ([arxiv](https://arxiv.org/abs/2509.24613))
 
 **MMRefine: Unveiling the Obstacles to Robust Refinement in Multimodal Large Language Models**    
 **G. Paik**, G. Kim and J. Im\*, *ACL Findings 2025* ([arxiv](https://arxiv.org/abs/2506.04688))
