@@ -11,6 +11,10 @@
 **G. Paik\***, Y. Kim, S. Lee, S. Ahn†, and C. Kim†, *EACL Findings 2026* ([arxiv](https://arxiv.org/abs/2509.24613))    
 `#STT` `#Benchmark` `#Code-Switching`
 
+**Towards Truly Multilingual ASR: Generalizing Code-Switching ASR to Unseen Language Pairs**    
+**G. Paik\*†**, H. Shin†, S. Lee, *ICML 2026 Workshop on Machine Learning for Audio* ([arxiv](https://arxiv.org/pdf/2606.05846))    
+`#STT` `#Code-Switching` `#Domain-Generalization`
+
 **MMRefine: Unveiling the Obstacles to Robust Refinement in Multimodal Large Language Models**    
 **G. Paik**, G. Kim and J. Im\*, *ACL Findings 2025* ([arxiv](https://arxiv.org/abs/2506.04688))    
 `#VLM` `#Reasoning` `#Benchmark` `#LLM-as-a-judge`
